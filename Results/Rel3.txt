@@ -1,0 +1,2885 @@
+Ba_name:     闫妮吧
+Ba_m_number: 266870
+Ba_p_number: 2173992
+Ba_desc:     百度闫妮吧与妮相伴，一路有妮。
+================WARNING==DENGER===================
+Ba_name:     中国好声音吧
+Ba_m_number: 1232837
+Ba_p_number: 28207734
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     明星吧
+Ba_m_number: 463796
+Ba_p_number: 16808408
+Ba_desc:     最新明星动态八卦,尽在明星吧！
+================WARNING==DENGER===================
+Ba_name:     红豆爱阿翁吧
+Ba_m_number: 1621171
+Ba_p_number: 49981630
+Ba_desc:     影视明星最新动态，全方位分析，娱乐…
+================WARNING==DENGER===================
+Ba_name:     杨洋吧
+Ba_m_number: 1057327
+Ba_p_number: 20945771
+Ba_desc:     内地青年男演员杨洋专属贴吧~羊毛大本营
+================WARNING==DENGER===================
+Ba_name:     周杰伦吧
+Ba_m_number: 2491872
+Ba_p_number: 80635647
+Ba_desc:     全球最大的周杰伦粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     李易峰吧
+Ba_m_number: 2249731
+Ba_p_number: 74382979
+Ba_desc:     拽而有礼，拽而不狂
+================WARNING==DENGER===================
+Ba_name:     易昕吧
+Ba_m_number: 82742
+Ba_p_number: 5977855
+Ba_desc:     邂逅那一瞬的錦瑟，在你恰好的流年值此一世
+================WARNING==DENGER===================
+Ba_name:     霍建华吧
+Ba_m_number: 1407585
+Ba_p_number: 26402643
+Ba_desc:     华哥向前走，霍迷陪伴你左右。
+================WARNING==DENGER===================
+Ba_name:     supergirls吧
+Ba_m_number: 1649089
+Ba_p_number: 28466724
+Ba_desc:     少女时代吧，Sone分享、吐槽、猎奇大本营。
+================WARNING==DENGER===================
+Ba_name:     exo王道吧
+Ba_m_number: 685675
+Ba_p_number: 19948860
+Ba_desc:     exo粉丝们期待的粉红聚集地
+================WARNING==DENGER===================
+Ba_name:     bigbang吧
+Ba_m_number: 2259313
+Ba_p_number: 17304091
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     女优吧
+Ba_m_number: 394843
+Ba_p_number: 6102645
+Ba_desc:     我们都有共同的喜好相聚在一起，优吧加油！
+================WARNING==DENGER===================
+Ba_name:     勋鹿吧
+Ba_m_number: 486154
+Ba_p_number: 14317541
+Ba_desc:     勋鹿，寻你一路奶茶香
+================WARNING==DENGER===================
+Ba_name:     exo吧
+Ba_m_number: 3000948
+Ba_p_number: 35801837
+Ba_desc:     太阳般一体EXO
+================WARNING==DENGER===================
+Ba_name:     snh48吧
+Ba_m_number: 566347
+Ba_p_number: 20810029
+Ba_desc:     真正可以见面的偶像
+================WARNING==DENGER===================
+Ba_name:     akb48吧
+Ba_m_number: 591916
+Ba_p_number: 43891785
+Ba_desc:     AKB48中国粉丝应援会
+================WARNING==DENGER===================
+Ba_name:     鹿晗吧
+Ba_m_number: 3275429
+Ba_p_number: 26202556
+Ba_desc:     百度鹿晗吧，专注鹿晗事业动态，传递最新咨询消息，囊括最全经典图文。这里是精致、大气的粉丝平台，温暖、团结的鹿饭家园，欢迎你的加入。
+================WARNING==DENGER===================
+Ba_name:     金秀炫吧
+Ba_m_number: 1333749
+Ba_p_number: 29319666
+Ba_desc:     出类拔萃之（秀） 智慧之（贤）， 金秀贤
+================WARNING==DENGER===================
+Ba_name:     灿白吧
+Ba_m_number: 399374
+Ba_p_number: 8795520
+Ba_desc:     1127x0506 Chanbaek Just Right
+================WARNING==DENGER===================
+Ba_name:     vae吧
+Ba_m_number: 1296640
+Ba_p_number: 51999974
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     钟汉良吧
+Ba_m_number: 1091975
+Ba_p_number: 30234323
+Ba_desc:     我想要的人生，是与我的努力相对等的人生
+================WARNING==DENGER===================
+Ba_name:     陈奕迅吧
+Ba_m_number: 1875009
+Ba_p_number: 15629730
+Ba_desc:     陈奕迅歌迷——EF之家
+================WARNING==DENGER===================
+Ba_name:     赵丽颖吧
+Ba_m_number: 1228579
+Ba_p_number: 29332380
+Ba_desc:     赵丽颖百度贴吧
+================WARNING==DENGER===================
+Ba_name:     吴亦凡吧
+Ba_m_number: 2047167
+Ba_p_number: 13881864
+Ba_desc:     一直在一起吴亦凡
+================WARNING==DENGER===================
+Ba_name:     网络红人吧
+Ba_m_number: 1191622
+Ba_p_number: 13176015
+Ba_desc:     网罗天下红人 尽在网络红人吧
+================WARNING==DENGER===================
+Ba_name:     凯源吧
+Ba_m_number: 208249
+Ba_p_number: 8718139
+Ba_desc:     亲爱的王俊凯，亲爱的王源，你好吗 。
+================WARNING==DENGER===================
+Ba_name:     superjunior吧
+Ba_m_number: 1321642
+Ba_p_number: 43299245
+Ba_desc:     SUPER LOVE FOR SUPERJUNIOR
+================WARNING==DENGER===================
+Ba_name:     郭德纲吧
+Ba_m_number: 871847
+Ba_p_number: 14935967
+Ba_desc:     还没加入老和部队？快来干点正事吧！
+================WARNING==DENGER===================
+Ba_name:     tfboys吧
+Ba_m_number: 1458433
+Ba_p_number: 9535362
+Ba_desc:     北京时代峰峻打造的首个少年偶像明星团体
+================WARNING==DENGER===================
+Ba_name:     维尼夫妇吧
+Ba_m_number: 1245151
+Ba_p_number: 20662661
+Ba_desc:     维尼夫妇粉丝的交流聚集地
+================WARNING==DENGER===================
+Ba_name:     g-dragon吧
+Ba_m_number: 2420483
+Ba_p_number: 9846161
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     tiara组合吧
+Ba_m_number: 2134769
+Ba_p_number: 8819780
+Ba_desc:     韩国女团T-ara专属贴吧，Queen&#039;s们的家园
+================WARNING==DENGER===================
+Ba_name:     张国荣吧
+Ba_m_number: 1260107
+Ba_p_number: 23436120
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     唐嫣吧
+Ba_m_number: 1461230
+Ba_p_number: 29150584
+Ba_desc:     烦恼最小化，快乐最大化。
+================WARNING==DENGER===================
+Ba_name:     不屈不挠粽子吧
+Ba_m_number: 93814
+Ba_p_number: 10435170
+Ba_desc:     以09快女为根基的选秀话题娱乐圈话题讨论
+================WARNING==DENGER===================
+Ba_name:     灿白h吧
+Ba_m_number: 48078
+Ba_p_number: 1187801
+Ba_desc:     灿白 Write a lovesong.
+================WARNING==DENGER===================
+Ba_name:     华颖吧
+Ba_m_number: 38403
+Ba_p_number: 2470956
+Ba_desc:     演员霍建华and赵丽颖粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     郑爽吧
+Ba_m_number: 1276722
+Ba_p_number: 38630175
+Ba_desc:     郑因有你，温暖同行
+================WARNING==DENGER===================
+Ba_name:     刘亦菲吧
+Ba_m_number: 1197186
+Ba_p_number: 31340305
+Ba_desc:     演员刘亦菲最大影迷聚集地
+================WARNING==DENGER===================
+Ba_name:     杨幂吧
+Ba_m_number: 2034823
+Ba_p_number: 41989954
+Ba_desc:     初心向杨，寻幂不忘
+================WARNING==DENGER===================
+Ba_name:     泰勒·斯威夫特吧
+Ba_m_number: 1122058
+Ba_p_number: 7622877
+Ba_desc:     全球最大的Swifties中文交流平台
+================WARNING==DENGER===================
+Ba_name:     王俊凯吧
+Ba_m_number: 1155731
+Ba_p_number: 16494210
+Ba_desc:     这里是王俊凯的小螃蟹寄居地！
+================WARNING==DENGER===================
+Ba_name:     姚贝娜吧
+Ba_m_number: 438392
+Ba_p_number: 19424444
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     林俊杰吧
+Ba_m_number: 1078089
+Ba_p_number: 41422527
+Ba_desc:     百度林俊杰吧，JM永远的家
+================WARNING==DENGER===================
+Ba_name:     fx组合吧
+Ba_m_number: 901032
+Ba_p_number: 6549078
+Ba_desc:     f(x)组合吧，一起了解我们最爱的f(x)
+================WARNING==DENGER===================
+Ba_name:     郑秀妍吧
+Ba_m_number: 1518019
+Ba_p_number: 5757410
+Ba_desc:     ONE AND ONLY JESSICA
+================WARNING==DENGER===================
+Ba_name:     周一情侣吧
+Ba_m_number: 197575
+Ba_p_number: 2421671
+Ba_desc:     runningman中的官配 我们心中的最爱
+================WARNING==DENGER===================
+Ba_name:     张艺兴吧
+Ba_m_number: 2478544
+Ba_p_number: 15502052
+Ba_desc:     百度张艺兴吧，艺兴和兴迷的家，我们一直…
+================WARNING==DENGER===================
+Ba_name:     湉晨吧
+Ba_m_number: 62250
+Ba_p_number: 8599844
+Ba_desc:     中国好兄弟于湉华晨宇的共同贴吧
+================WARNING==DENGER===================
+Ba_name:     宋茜吧
+Ba_m_number: 1966463
+Ba_p_number: 36967247
+Ba_desc:     百度宋茜吧 无论时间多久 相信茜米一直都在
+================WARNING==DENGER===================
+Ba_name:     演员马可吧
+Ba_m_number: 229485
+Ba_p_number: 3070752
+Ba_desc:     演员马可官方贴吧，可乐之家。
+================WARNING==DENGER===================
+Ba_name:     邓紫棋吧
+Ba_m_number: 1587256
+Ba_p_number: 10643010
+Ba_desc:     G.E.M.邓紫棋 新一代天后
+================WARNING==DENGER===================
+Ba_name:     李宇春吧
+Ba_m_number: 1170281
+Ba_p_number: 70991472
+Ba_desc:     百度李宇春吧
+================WARNING==DENGER===================
+Ba_name:     快乐男声吧
+Ba_m_number: 921479
+Ba_p_number: 44596353
+Ba_desc:     湖南卫视音乐选秀节目
+================WARNING==DENGER===================
+Ba_name:     张杰吧
+Ba_m_number: 1573852
+Ba_p_number: 66731765
+Ba_desc:     中国内地流行歌手张杰
+================WARNING==DENGER===================
+Ba_name:     超级粽子吧
+Ba_m_number: 74625
+Ba_p_number: 18842424
+Ba_desc:     贴吧10年网友俱乐部，娱乐生活话题汇聚。
+================WARNING==DENGER===================
+Ba_name:     毕家军吧
+Ba_m_number: 140060
+Ba_p_number: 5150418
+Ba_desc:     有声小说播音员 YY主播 毕加索的地盘
+================WARNING==DENGER===================
+Ba_name:     刘德华吧
+Ba_m_number: 839957
+Ba_p_number: 19158344
+Ba_desc:     百度有个家，刘德华贴吧。
+================WARNING==DENGER===================
+Ba_name:     黄子韬吧
+Ba_m_number: 2055364
+Ba_p_number: 6267512
+Ba_desc:     黄子韬粉丝（VVHL海浪）聚集地
+================WARNING==DENGER===================
+Ba_name:     郑秀晶吧
+Ba_m_number: 983629
+Ba_p_number: 6015733
+Ba_desc:     百度郑秀晶吧
+================WARNING==DENGER===================
+Ba_name:     颖晓吧
+Ba_m_number: 41178
+Ba_p_number: 2113912
+Ba_desc:     小影迷聚集地
+================WARNING==DENGER===================
+Ba_name:     老jay迷吧
+Ba_m_number: 65250
+Ba_p_number: 6398501
+Ba_desc:     打造百度最文明的杰黑贴吧
+================WARNING==DENGER===================
+Ba_name:     金钟国吧
+Ba_m_number: 662777
+Ba_p_number: 4195327
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     陈乔恩吧
+Ba_m_number: 964436
+Ba_p_number: 15334984
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     吴世勋吧
+Ba_m_number: 2315006
+Ba_p_number: 7531108
+Ba_desc:     以吴世勋为中心的大家庭?
+================WARNING==DENGER===================
+Ba_name:     infinite吧
+Ba_m_number: 632135
+Ba_p_number: 3658168
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     got7吧
+Ba_m_number: 197085
+Ba_p_number: 2049875
+Ba_desc:     COME AND GET IT
+================WARNING==DENGER===================
+Ba_name:     易烊千玺吧
+Ba_m_number: 691848
+Ba_p_number: 5443713
+Ba_desc:     萌萌的千纸鹤们，快到碗里来！
+================WARNING==DENGER===================
+Ba_name:     刘诗诗吧
+Ba_m_number: 2495817
+Ba_p_number: 46941341
+Ba_desc:     倾狮之力，护诗前行
+================WARNING==DENGER===================
+Ba_name:     朴灿烈吧
+Ba_m_number: 2224723
+Ba_p_number: 5440825
+Ba_desc:     EXO成员朴灿烈个人贴吧
+================WARNING==DENGER===================
+Ba_name:     周星驰吧
+Ba_m_number: 961158
+Ba_p_number: 9174467
+Ba_desc:     我们都只是星迷，在这里，等你。
+================WARNING==DENGER===================
+Ba_name:     apink吧
+Ba_m_number: 598708
+Ba_p_number: 1954753
+Ba_desc:     独一无二的 APink、Panda 聚集地
+================WARNING==DENGER===================
+Ba_name:     李钟硕吧
+Ba_m_number: 1191873
+Ba_p_number: 5771237
+Ba_desc:     所有With JS 的家
+================WARNING==DENGER===================
+Ba_name:     林允儿吧
+Ba_m_number: 1485968
+Ba_p_number: 7843331
+Ba_desc:     百度林允儿吧
+================WARNING==DENGER===================
+Ba_name:     孙燕姿吧
+Ba_m_number: 1139264
+Ba_p_number: 116608702
+Ba_desc:     孙燕姿吧  绿光神贴  有爱的姿迷  团结
+================WARNING==DENGER===================
+Ba_name:     李民浩吧
+Ba_m_number: 1459532
+Ba_p_number: 14800485
+Ba_desc:     Minoz 的家
+================WARNING==DENGER===================
+Ba_name:     牛鹿吧
+Ba_m_number: 145612
+Ba_p_number: 3753458
+Ba_desc:     中国内地小生鹿晗&amp;吴亦凡双人贴吧
+================WARNING==DENGER===================
+Ba_name:     angelababy吧
+Ba_m_number: 905586
+Ba_p_number: 3333506
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     赫海吧
+Ba_m_number: 122791
+Ba_p_number: 3869872
+Ba_desc:     李赫宰和李东海的15年恋爱中
+================WARNING==DENGER===================
+Ba_name:     华晨宇吧
+Ba_m_number: 1061991
+Ba_p_number: 20731501
+Ba_desc:     歌手华晨宇
+================WARNING==DENGER===================
+Ba_name:     边伯贤吧
+Ba_m_number: 1239625
+Ba_p_number: 6451397
+Ba_desc:     百度边伯贤个人吧
+================WARNING==DENGER===================
+Ba_name:     五月天吧
+Ba_m_number: 1162162
+Ba_p_number: 17665781
+Ba_desc:     混在五吧，幸福剛好夠用！
+================WARNING==DENGER===================
+Ba_name:     龙tory吧
+Ba_m_number: 98939
+Ba_p_number: 3031654
+Ba_desc:     BIGBANG成员-权志龙&amp;李胜贤 双人CP
+================WARNING==DENGER===================
+Ba_name:     bangtanboys王道吧
+Ba_m_number: 68375
+Ba_p_number: 3132331
+Ba_desc:     韩国男团bangtanboys的王道吧
+================WARNING==DENGER===================
+Ba_name:     胡歌吧
+Ba_m_number: 1239951
+Ba_p_number: 25134717
+Ba_desc:     沉淀积累 初心不忘
+================WARNING==DENGER===================
+Ba_name:     牛桃吧
+Ba_m_number: 116834
+Ba_p_number: 5427901
+Ba_desc:     Baidu Kristao bar 吴亦凡黄子韬双人贴吧
+================WARNING==DENGER===================
+Ba_name:     霆峰吧
+Ba_m_number: 152421
+Ba_p_number: 1928016
+Ba_desc:     这里是陈伟霆、李易峰的CP贴吧~
+================WARNING==DENGER===================
+Ba_name:     鹿晗小说吧
+Ba_m_number: 116494
+Ba_p_number: 2724140
+Ba_desc:     我们是一个爱鹿晗爱小说的大家庭加入^^
+================WARNING==DENGER===================
+Ba_name:     张靓颖吧
+Ba_m_number: 687265
+Ba_p_number: 20688316
+Ba_desc:     歌手张靓颖
+================WARNING==DENGER===================
+Ba_name:     吴磊吧
+Ba_m_number: 232300
+Ba_p_number: 1926812
+Ba_desc:     演员吴磊个人专属贴吧，磊迷聚集地！
+================WARNING==DENGER===================
+Ba_name:     柯震东吧
+Ba_m_number: 775525
+Ba_p_number: 4423640
+Ba_desc:     Always be with kaiko
+================WARNING==DENGER===================
+Ba_name:     蔡依林吧
+Ba_m_number: 915227
+Ba_p_number: 103085188
+Ba_desc:     百度依吧 骑士的家 ！
+================WARNING==DENGER===================
+Ba_name:     牛灿吧
+Ba_m_number: 109043
+Ba_p_number: 3545038
+Ba_desc:     AYO！JUST FOR KRISCHAN！
+================WARNING==DENGER===================
+Ba_name:     东婷吧
+Ba_m_number: 33341
+Ba_p_number: 931010
+Ba_desc:     谢谢你喜欢我~
+================WARNING==DENGER===================
+Ba_name:     允西卡吧
+Ba_m_number: 67863
+Ba_p_number: 2153794
+Ba_desc:     鹅毛浮绿水，允西一生推！
+================WARNING==DENGER===================
+Ba_name:     赵薇吧
+Ba_m_number: 658661
+Ba_p_number: 16892302
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     吴宗宪吧
+Ba_m_number: 505833
+Ba_p_number: 4802987
+Ba_desc:     天下宪迷是一家。
+================WARNING==DENGER===================
+Ba_name:     王源吧
+Ba_m_number: 657898
+Ba_p_number: 5510395
+Ba_desc:     王源唯一的官方个人信息交流贴吧
+================WARNING==DENGER===================
+Ba_name:     张翰郑爽吧
+Ba_m_number: 58720
+Ba_p_number: 393548
+Ba_desc:     让时间说真话，他们一直在一起不曾分离。
+================WARNING==DENGER===================
+Ba_name:     bangtanboys吧
+Ba_m_number: 188966
+Ba_p_number: 1760834
+Ba_desc:     百度防弹少年团贴吧
+================WARNING==DENGER===================
+Ba_name:     乔振宇吧
+Ba_m_number: 360381
+Ba_p_number: 7015505
+Ba_desc:     他可以代表很多，低调，清新，恬淡，正能量
+================WARNING==DENGER===================
+Ba_name:     陈赫吧
+Ba_m_number: 485254
+Ba_p_number: 3434910
+Ba_desc:     陈赫贴吧 —— 不忘初心  赫你同行
+================WARNING==DENGER===================
+Ba_name:     金泰妍吧
+Ba_m_number: 1512490
+Ba_p_number: 13602631
+Ba_desc:     OnlyKTY，Always here 金泰妍 Fightaeng
+================WARNING==DENGER===================
+Ba_name:     黄家驹吧
+Ba_m_number: 720143
+Ba_p_number: 4853039
+Ba_desc:     有音乐，就不会有世界末日-黄家驹
+================WARNING==DENGER===================
+Ba_name:     影视同人吧
+Ba_m_number: 274112
+Ba_p_number: 8182496
+Ba_desc:     同人腐女娱乐地，八卦影视聚焦
+================WARNING==DENGER===================
+Ba_name:     范冰冰吧
+Ba_m_number: 861945
+Ba_p_number: 4701549
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     郑多燕吧
+Ba_m_number: 653409
+Ba_p_number: 3139602
+Ba_desc:     郑多燕粉丝的专属聚集地
+================WARNING==DENGER===================
+Ba_name:     乔任梁吧
+Ba_m_number: 598653
+Ba_p_number: 83711099
+Ba_desc:     乔任梁官方粉丝会
+================WARNING==DENGER===================
+Ba_name:     红薯夫妇吧
+Ba_m_number: 131410
+Ba_p_number: 3498996
+Ba_desc:     一念一初心，一生一红薯
+================WARNING==DENGER===================
+Ba_name:     exo繁星吧
+Ba_m_number: 121513
+Ba_p_number: 3211285
+Ba_desc:     exo繁星吧是喜欢吴亦凡张艺兴饭的温暖的家
+================WARNING==DENGER===================
+Ba_name:     李光洙吧
+Ba_m_number: 681518
+Ba_p_number: 1248399
+Ba_desc:     欢迎各位爱光洙的giraffe来到这里！
+================WARNING==DENGER===================
+Ba_name:     林心如吧
+Ba_m_number: 669013
+Ba_p_number: 15114499
+Ba_desc:     汇聚心如最新动态及供如迷交流的网络平台。
+================WARNING==DENGER===================
+Ba_name:     八卦吧
+Ba_m_number: 901455
+Ba_p_number: 4810182
+Ba_desc:     最新、最精彩的娱乐新闻、明星八卦、内幕
+================WARNING==DENGER===================
+Ba_name:     神话吧
+Ba_m_number: 671840
+Ba_p_number: 21699595
+Ba_desc:     【SHINHWA】无解散无替换无退队思密达！
+================WARNING==DENGER===================
+Ba_name:     fx吧
+Ba_m_number: 190258
+Ba_p_number: 458131
+Ba_desc:     韩国歌手f（x），聚集之处，函数家族在此！
+================WARNING==DENGER===================
+Ba_name:     陈冠希吧
+Ba_m_number: 915488
+Ba_p_number: 3740004
+Ba_desc:     有爱的希吧，有爱的希饭
+================WARNING==DENGER===================
+Ba_name:     宋智孝吧
+Ba_m_number: 761939
+Ba_p_number: 1673951
+Ba_desc:     百度宋智孝吧。千木成林，一孝倾城
+================WARNING==DENGER===================
+Ba_name:     朴信惠吧
+Ba_m_number: 783047
+Ba_p_number: 3903811
+Ba_desc:     信誓旦旦惠心暖暖
+================WARNING==DENGER===================
+Ba_name:     谢霆锋吧
+Ba_m_number: 718899
+Ba_p_number: 22683526
+Ba_desc:     百度锋吧，属于蜂蜜的家
+================WARNING==DENGER===================
+Ba_name:     aoa吧
+Ba_m_number: 297500
+Ba_p_number: 997196
+Ba_desc:     韩国女子组合AOA百度贴吧
+================WARNING==DENGER===================
+Ba_name:     刘雯吧
+Ba_m_number: 41732
+Ba_p_number: 104326
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     勋鹿h吧
+Ba_m_number: 26225
+Ba_p_number: 514217
+Ba_desc:     这个吧，只为勋鹿
+================WARNING==DENGER===================
+Ba_name:     张学友吧
+Ba_m_number: 680099
+Ba_p_number: 8610939
+Ba_desc:     歌神张学友0(∩_∩)0网罗学友一切信息
+================WARNING==DENGER===================
+Ba_name:     micky有天吧
+Ba_m_number: 776743
+Ba_p_number: 20327950
+Ba_desc:     All For Yuchun 爱生活，爱有天
+================WARNING==DENGER===================
+Ba_name:     iu吧
+Ba_m_number: 744770
+Ba_p_number: 2269066
+Ba_desc:     发布国民妹妹IU新闻.图片.消息的地方,欢迎!
+================WARNING==DENGER===================
+Ba_name:     taylor吧
+Ba_m_number: 710807
+Ba_p_number: 4921011
+Ba_desc:     欢迎来到Taylovers大家园
+================WARNING==DENGER===================
+Ba_name:     网店宣传吧
+Ba_m_number: 379766
+Ba_p_number: 4012651
+Ba_desc:     店铺、周边等宣传，欢迎大家常驻。
+================WARNING==DENGER===================
+Ba_name:     崔始源吧
+Ba_m_number: 371914
+Ba_p_number: 4484777
+Ba_desc:     百度崔始源吧，只为崔始源。
+================WARNING==DENGER===================
+Ba_name:     exo完结文库吧
+Ba_m_number: 186232
+Ba_p_number: 715644
+Ba_desc:     本吧以看文为主，讨论为辅
+================WARNING==DENGER===================
+Ba_name:     陈晓吧
+Ba_m_number: 648631
+Ba_p_number: 4866903
+Ba_desc:     陈晓百度贴吧
+================WARNING==DENGER===================
+Ba_name:     黄宗泽吧
+Ba_m_number: 351751
+Ba_p_number: 2371412
+Ba_desc:     百度黄宗泽吧 黄家军温馨的家
+================WARNING==DENGER===================
+Ba_name:     girlsday吧
+Ba_m_number: 325523
+Ba_p_number: 841538
+Ba_desc:     一个热爱girlsday的大家园
+================WARNING==DENGER===================
+Ba_name:     艾薇儿吧
+Ba_m_number: 847386
+Ba_p_number: 7843642
+Ba_desc:     Little Black Stars聚居地.
+================WARNING==DENGER===================
+Ba_name:     张智尧吧
+Ba_m_number: 276328
+Ba_p_number: 6616664
+Ba_desc:     有爱的火星人
+================WARNING==DENGER===================
+Ba_name:     池昌旭吧
+Ba_m_number: 235590
+Ba_p_number: 999352
+Ba_desc:     演员：JiChangWook
+================WARNING==DENGER===================
+Ba_name:     justinbieber吧
+Ba_m_number: 782545
+Ba_p_number: 4450021
+Ba_desc:     贴吧，娱乐，资讯，交流，共享。
+================WARNING==DENGER===================
+Ba_name:     陈都灵吧
+Ba_m_number: 68415
+Ba_p_number: 968586
+Ba_desc:     有相聚，有分离，还是始终喜欢你。
+================WARNING==DENGER===================
+Ba_name:     东方神起吧
+Ba_m_number: 1036019
+Ba_p_number: 45993765
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     金素贤吧
+Ba_m_number: 349532
+Ba_p_number: 522067
+Ba_desc:     百度金所炫/金素贤吧
+================WARNING==DENGER===================
+Ba_name:     陈学冬吧
+Ba_m_number: 474662
+Ba_p_number: 2943198
+Ba_desc:     陈学冬吧欢迎喜欢冬冬的朋友们前来入驻
+================WARNING==DENGER===================
+Ba_name:     s.h.e吧
+Ba_m_number: 651371
+Ba_p_number: 42124195
+Ba_desc:     爱的S.H.E吧，三叶草的家。
+================WARNING==DENGER===================
+Ba_name:     井柏然吧
+Ba_m_number: 438016
+Ba_p_number: 52066767
+Ba_desc:     百度井柏然吧
+================WARNING==DENGER===================
+Ba_name:     苏打绿吧
+Ba_m_number: 623737
+Ba_p_number: 3246579
+Ba_desc:     We love sodagreen，苏打粉在百度的家。
+================WARNING==DENGER===================
+Ba_name:     覃沐曦吧
+Ba_m_number: 208845
+Ba_p_number: 3739311
+Ba_desc:     风倾华夏，筝鸣九州！风小筝贴吧欢迎您
+================WARNING==DENGER===================
+Ba_name:     乃木坂46吧
+Ba_m_number: 285130
+Ba_p_number: 2701928
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     exo王道生子吧
+Ba_m_number: 31018
+Ba_p_number: 538211
+Ba_desc:     本吧为关于exo十二位成员的cp小说贴吧
+================WARNING==DENGER===================
+Ba_name:     刘在石吧
+Ba_m_number: 661336
+Ba_p_number: 1413532
+Ba_desc:     在石教徒领地，聚焦韩国国民MC刘在石新动态
+================WARNING==DENGER===================
+Ba_name:     迈克尔杰克逊吧
+Ba_m_number: 670898
+Ba_p_number: 12867257
+Ba_desc:     King of Pop、舞蹈家、人道主义者、慈善家
+================WARNING==DENGER===================
+Ba_name:     郑恺吧
+Ba_m_number: 149882
+Ba_p_number: 1124708
+Ba_desc:     百度郑恺吧，恺甲聚集地
+================WARNING==DENGER===================
+Ba_name:     王力宏吧
+Ba_m_number: 812151
+Ba_p_number: 51708511
+Ba_desc:     王力宏歌迷、影迷关注度最高的宏迷交流平台
+================WARNING==DENGER===================
+Ba_name:     idea_pocket吧
+Ba_m_number: 121454
+Ba_p_number: 105910
+Ba_desc:     发言前请自行阅读完整版吧规！
+================WARNING==DENGER===================
+Ba_name:     exo_all桃吧
+Ba_m_number: 37988
+Ba_p_number: 1054457
+Ba_desc:     这里是百度exo_all桃吧！！HL们相爱吧~
+================WARNING==DENGER===================
+Ba_name:     infinite王道吧
+Ba_m_number: 50827
+Ba_p_number: 2971217
+Ba_desc:     INFINITE有爱图文聚集地
+================WARNING==DENGER===================
+Ba_name:     beyond吧
+Ba_m_number: 750828
+Ba_p_number: 4401862
+Ba_desc:     以BEYOND乐队为中心展开音乐等方面的讨论
+================WARNING==DENGER===================
+Ba_name:     linkin吧
+Ba_m_number: 571890
+Ba_p_number: 3771166
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     ulzzang吧
+Ba_m_number: 165150
+Ba_p_number: 1913322
+Ba_desc:     Ulzzang.时尚.美图.
+================WARNING==DENGER===================
+Ba_name:     李健吧
+Ba_m_number: 214262
+Ba_p_number: 1273625
+Ba_desc:     李健听友会
+================WARNING==DENGER===================
+Ba_name:     hebe吧
+Ba_m_number: 644829
+Ba_p_number: 17654405
+Ba_desc:     仙草温暖的家，与你分享有关田馥甄的一切。
+================WARNING==DENGER===================
+Ba_name:     南柱赫吧
+Ba_m_number: 178234
+Ba_p_number: 401560
+Ba_desc:     陪南柱赫度过漫长岁月
+================WARNING==DENGER===================
+Ba_name:     魏晨吧
+Ba_m_number: 1046156
+Ba_p_number: 34011408
+Ba_desc:     乐橙最初的家，魏晨百度贴吧
+================WARNING==DENGER===================
+Ba_name:     刘烨吧
+Ba_m_number: 257970
+Ba_p_number: 572830
+Ba_desc:     路遥远，我们一起走
+================WARNING==DENGER===================
+Ba_name:     邓超吧
+Ba_m_number: 611660
+Ba_p_number: 2807209
+Ba_desc:     乘风破浪的邓超吧
+================WARNING==DENGER===================
+Ba_name:     陈伟霆吧
+Ba_m_number: 409963
+Ba_p_number: 8102372
+Ba_desc:     本吧为陈伟霆的粉丝交流、分享、聚集地。
+================WARNING==DENGER===================
+Ba_name:     勋晶吧
+Ba_m_number: 35995
+Ba_p_number: 684536
+Ba_desc:     心与灵魂.Guard your smile eyes.
+================WARNING==DENGER===================
+Ba_name:     沈氏夫夫吧
+Ba_m_number: 193902
+Ba_p_number: 2735454
+Ba_desc:     守护夫夫，不离不弃，安然相守。
+================WARNING==DENGER===================
+Ba_name:     韩庚吧
+Ba_m_number: 911828
+Ba_p_number: 38623728
+Ba_desc:     庚饭的家，守护韩庚的庚饭大本营。
+================WARNING==DENGER===================
+Ba_name:     罗志祥吧
+Ba_m_number: 731874
+Ba_p_number: 14562372
+Ba_desc:     记录罗志祥星路历程，与家人们伴他迎风成长
+================WARNING==DENGER===================
+Ba_name:     鬼泽夫妇吧
+Ba_m_number: 73720
+Ba_p_number: 2501464
+Ba_desc:     百度鬼泽夫妇吧期待您的到来
+================WARNING==DENGER===================
+Ba_name:     杰娜吧
+Ba_m_number: 209881
+Ba_p_number: 2988045
+Ba_desc:     爱，一直都在！
+================WARNING==DENGER===================
+Ba_name:     唱歌吧吧
+Ba_m_number: 38542
+Ba_p_number: 3569205
+Ba_desc:     爱唱歌 爱快乐 这里是唱歌的平台
+================WARNING==DENGER===================
+Ba_name:     本兮吧
+Ba_m_number: 680868
+Ba_p_number: 10157659
+Ba_desc:     90后原创女生第一人本兮专属贴吧
+================WARNING==DENGER===================
+Ba_name:     刘诺一吧
+Ba_m_number: 34283
+Ba_p_number: 149075
+Ba_desc:     守护诺一
+================WARNING==DENGER===================
+Ba_name:     韩国女团吧
+Ba_m_number: 27879
+Ba_p_number: 2114567
+Ba_desc:     K-POP女团,我们的梦想之国。
+================WARNING==DENGER===================
+Ba_name:     shinee吧
+Ba_m_number: 718589
+Ba_p_number: 6902149
+Ba_desc:     SHINee World的闪耀世界！喜欢SHINee就来吧
+================WARNING==DENGER===================
+Ba_name:     朴施厚吧
+Ba_m_number: 490633
+Ba_p_number: 14158498
+Ba_desc:     布施仁厚，朴施厚中国后援守厚星团为爱守厚
+================WARNING==DENGER===================
+Ba_name:     比比琼斯吧
+Ba_m_number: 43663
+Ba_p_number: 89222
+Ba_desc:     欧美女星之家，欧美靓丽女星粉丝聚集地！
+================WARNING==DENGER===================
+Ba_name:     灿勋吧
+Ba_m_number: 65117
+Ba_p_number: 1365167
+Ba_desc:     温暖相守的眼牙竹马
+================WARNING==DENGER===================
+Ba_name:     eminem吧
+Ba_m_number: 707354
+Ba_p_number: 4733153
+Ba_desc:     百度阿姆吧欢迎各位阿姆歌迷与说唱乐迷
+================WARNING==DENGER===================
+Ba_name:     李荣浩吧
+Ba_m_number: 113740
+Ba_p_number: 1367169
+Ba_desc:     亚洲新天王
+================WARNING==DENGER===================
+Ba_name:     周笔畅吧
+Ba_m_number: 822513
+Ba_p_number: 49195321
+Ba_desc:     周笔畅 内地最年轻大满贯歌后
+================WARNING==DENGER===================
+Ba_name:     懵钟吧
+Ba_m_number: 38737
+Ba_p_number: 541530
+Ba_desc:     SPARTACE CP！懵钟FOREVER！！
+================WARNING==DENGER===================
+Ba_name:     maroon5吧
+Ba_m_number: 334528
+Ba_p_number: 849489
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     b2st吧
+Ba_m_number: 584619
+Ba_p_number: 2467234
+Ba_desc:     做有素质的Beauty 永远守护Beast SO BEAST
+================WARNING==DENGER===================
+Ba_name:     李俊基吧
+Ba_m_number: 683127
+Ba_p_number: 22191411
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     王菲吧
+Ba_m_number: 628505
+Ba_p_number: 7717850
+Ba_desc:     全网最大的天后王菲粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     神童吧
+Ba_m_number: 18092
+Ba_p_number: 152708
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     小暮花恋吧
+Ba_m_number: 486385
+Ba_p_number: 0
+Ba_desc:     来到小暮吧，找到你的幸福。
+================WARNING==DENGER===================
+Ba_name:     taessica吧
+Ba_m_number: 34032
+Ba_p_number: 1233776
+Ba_desc:     属于金泰妍和郑秀妍的恋爱证据大本营
+================WARNING==DENGER===================
+Ba_name:     奇葩吧
+Ba_m_number: 381899
+Ba_p_number: 4420858
+Ba_desc:     网罗天下最奇葩的事,分分钟变身爆料大湿!
+================WARNING==DENGER===================
+Ba_name:     刘恺威吧
+Ba_m_number: 650407
+Ba_p_number: 6069736
+Ba_desc:     威行天下 一路相随
+================WARNING==DENGER===================
+Ba_name:     鹿勋吧
+Ba_m_number: 51760
+Ba_p_number: 1247548
+Ba_desc:     让我们一起守护鹿晗和吴世勋!
+================WARNING==DENGER===================
+Ba_name:     李晨吧
+Ba_m_number: 106345
+Ba_p_number: 724258
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     张根锡吧
+Ba_m_number: 1561951
+Ba_p_number: 23186055
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     吴秀波吧
+Ba_m_number: 500761
+Ba_p_number: 5568129
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     李小龙吧
+Ba_m_number: 611635
+Ba_p_number: 1546981
+Ba_desc:     钜學鴻生 流水不腐 我龍吧歡迎各方有志之士
+================WARNING==DENGER===================
+Ba_name:     arashi吧
+Ba_m_number: 510108
+Ba_p_number: 3422430
+Ba_desc:     由大野智、樱井翔、相叶雅纪、二宫和也和松本润组成的日本杰尼斯五人团体
+================WARNING==DENGER===================
+Ba_name:     吴京吧
+Ba_m_number: 333590
+Ba_p_number: 2103981
+Ba_desc:     内地功夫明星、全国武术冠军。
+================WARNING==DENGER===================
+Ba_name:     逆风笑吧
+Ba_m_number: 66280
+Ba_p_number: 984297
+Ba_desc:     娱乐游戏解说逆风笑个人贴吧
+================WARNING==DENGER===================
+Ba_name:     张翰吧
+Ba_m_number: 811956
+Ba_p_number: 16745991
+Ba_desc:     张翰粉丝最早的聚集地，永远属于汉堡的家
+================WARNING==DENGER===================
+Ba_name:     都暻秀吧
+Ba_m_number: 771795
+Ba_p_number: 3102010
+Ba_desc:     ALWAYS BE WITH SOO
+================WARNING==DENGER===================
+Ba_name:     张惠妹吧
+Ba_m_number: 356648
+Ba_p_number: 39184206
+Ba_desc:     「张惠妹」她的音乐，地球的乌托邦乐土
+================WARNING==DENGER===================
+Ba_name:     张韶涵吧
+Ba_m_number: 677233
+Ba_p_number: 24611776
+Ba_desc:     韶先永不变，爱涵无极限！
+================WARNING==DENGER===================
+Ba_name:     2pm组合吧
+Ba_m_number: 681262
+Ba_p_number: 4493303
+Ba_desc:     百度2PM吧
+================WARNING==DENGER===================
+Ba_name:     隆诗吧
+Ba_m_number: 61346
+Ba_p_number: 1842448
+Ba_desc:     隆诗幸福小家的信徒集群
+================WARNING==DENGER===================
+Ba_name:     ladygaga吧
+Ba_m_number: 587845
+Ba_p_number: 4452093
+Ba_desc:     中国首个最庞大的monster聚集地
+================WARNING==DENGER===================
+Ba_name:     平安吧
+Ba_m_number: 299979
+Ba_p_number: 5797571
+Ba_desc:     百度平安吧 平安天籁 瓶盖最爱
+================WARNING==DENGER===================
+Ba_name:     谢娜吧
+Ba_m_number: 802217
+Ba_p_number: 3732600
+Ba_desc:     娜样的快乐精灵，欢迎简单快乐的你们~
+================WARNING==DENGER===================
+Ba_name:     exo魂蛋吧
+Ba_m_number: 67247
+Ba_p_number: 1065783
+Ba_desc:     exo魂蛋吧是由exo成员吴世勋与张艺兴相关…
+================WARNING==DENGER===================
+Ba_name:     朴智妍吧
+Ba_m_number: 718323
+Ba_p_number: 2595857
+Ba_desc:     All For ParkJiyeon
+================WARNING==DENGER===================
+Ba_name:     anti少女时代吧
+Ba_m_number: 25071
+Ba_p_number: 560263
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     快男陈翔吧
+Ba_m_number: 954182
+Ba_p_number: 33764360
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     金钟仁吧
+Ba_m_number: 782065
+Ba_p_number: 3558082
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     hero在中吧
+Ba_m_number: 740979
+Ba_p_number: 18719815
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     歌手少司命吧
+Ba_m_number: 42693
+Ba_p_number: 2934845
+Ba_desc:     爱生活，爱小司
+================WARNING==DENGER===================
+Ba_name:     mc安可儿吧
+Ba_m_number: 9399
+Ba_p_number: 26559
+Ba_desc:     mc安可儿 六间房最具人气女主播
+================WARNING==DENGER===================
+Ba_name:     崔胜贤吧
+Ba_m_number: 746729
+Ba_p_number: 2339687
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     成龙吧
+Ba_m_number: 447872
+Ba_p_number: 3547608
+Ba_desc:     岂能尽如人意，但求无愧我心。
+================WARNING==DENGER===================
+Ba_name:     mc大灵吧
+Ba_m_number: 24076
+Ba_p_number: 439993
+Ba_desc:     Mc大灵粉丝聚集地，欢迎您的加入。
+================WARNING==DENGER===================
+Ba_name:     任重吧
+Ba_m_number: 28057
+Ba_p_number: 375816
+Ba_desc:     任重百度贴吧
+================WARNING==DENGER===================
+Ba_name:     小花仙送号吧
+Ba_m_number: 37370
+Ba_p_number: 2307307
+Ba_desc:     【花送欢迎你】
+================WARNING==DENGER===================
+Ba_name:     张云龙吧
+Ba_m_number: 37054
+Ba_p_number: 623058
+Ba_desc:     张云龙百度贴吧
+================WARNING==DENGER===================
+Ba_name:     exo开度吧
+Ba_m_number: 78836
+Ba_p_number: 1169405
+Ba_desc:     中韩人气组合EXO，Kai与D.O.组成的couple。
+================WARNING==DENGER===================
+Ba_name:     裴秀智吧
+Ba_m_number: 571390
+Ba_p_number: 1594674
+Ba_desc:     裴秀智的大House，共同努力一起守护裴兔子~
+================WARNING==DENGER===================
+Ba_name:     鞠婧祎吧
+Ba_m_number: 242766
+Ba_p_number: 5777605
+Ba_desc:     SNH48二期生鞠婧祎应援贴吧
+================WARNING==DENGER===================
+Ba_name:     manson吧
+Ba_m_number: 304744
+Ba_p_number: 3400578
+Ba_desc:     我们是天生的坏小孩
+================WARNING==DENGER===================
+Ba_name:     刘若英吧
+Ba_m_number: 333672
+Ba_p_number: 3600187
+Ba_desc:     在茶吧，遗忘的都回来了！
+================WARNING==DENGER===================
+Ba_name:     卤蛋吧
+Ba_m_number: 79399
+Ba_p_number: 1204614
+Ba_desc:     鹿晗&amp;张艺兴
+================WARNING==DENGER===================
+Ba_name:     李弘基吧
+Ba_m_number: 737540
+Ba_p_number: 6561551
+Ba_desc:     本吧是韩国乐队ftisland主唱李洪基的贴吧
+================WARNING==DENGER===================
+Ba_name:     柴静吧
+Ba_m_number: 210305
+Ba_p_number: 927069
+Ba_desc:     我们在生命的黑暗与曲折处，相互鼓舞前行。
+================WARNING==DENGER===================
+Ba_name:     汪东城吧
+Ba_m_number: 666116
+Ba_p_number: 8546582
+Ba_desc:     汪东城内地最大后援会 亲妈后妈大妈一把罩
+================WARNING==DENGER===================
+Ba_name:     金希澈吧
+Ba_m_number: 686506
+Ba_p_number: 12146718
+Ba_desc:     天上天下，希澈独尊
+================WARNING==DENGER===================
+Ba_name:     white吧
+Ba_m_number: 218876
+Ba_p_number: 1865850
+Ba_desc:     英雄联盟职业选手，主播white的个人贴吧
+================WARNING==DENGER===================
+Ba_name:     郑龙华吧
+Ba_m_number: 639802
+Ba_p_number: 2125593
+Ba_desc:     百度郑容和吧 OnlyJYH
+================WARNING==DENGER===================
+Ba_name:     exol吧
+Ba_m_number: 114986
+Ba_p_number: 2834139
+Ba_desc:     EXO官方FANCLUB EXO-L贴吧
+================WARNING==DENGER===================
+Ba_name:     渡边麻友吧
+Ba_m_number: 575816
+Ba_p_number: 2599608
+Ba_desc:     欢迎加入渡边麻友吧
+================WARNING==DENGER===================
+Ba_name:     杰森斯坦森吧
+Ba_m_number: 590923
+Ba_p_number: 1208697
+Ba_desc:     杰森斯坦森影迷聚集地。有爱的杰森吧。
+================WARNING==DENGER===================
+Ba_name:     cnblue吧
+Ba_m_number: 671752
+Ba_p_number: 3611637
+Ba_desc:     一起到老爷爷乐队！
+================WARNING==DENGER===================
+Ba_name:     bigbang吧美文区吧
+Ba_m_number: 59608
+Ba_p_number: 915589
+Ba_desc:     欢迎大家来到BIGBANG美文区有爱的大家庭
+================WARNING==DENGER===================
+Ba_name:     苏志燮吧
+Ba_m_number: 583195
+Ba_p_number: 4879723
+Ba_desc:     欢迎分享和交流韩国演员苏志燮
+================WARNING==DENGER===================
+Ba_name:     exo驯鹿吧
+Ba_m_number: 127868
+Ba_p_number: 1244901
+Ba_desc:     一鹿倾勋,一世晗光
+================WARNING==DENGER===================
+Ba_name:     粉丝吧
+Ba_m_number: 271461
+Ba_p_number: 27407898
+Ba_desc:     粉丝吧！一个互粉的天堂
+================WARNING==DENGER===================
+Ba_name:     winner吧
+Ba_m_number: 630125
+Ba_p_number: 1449575
+Ba_desc:     欢迎来到winner吧
+================WARNING==DENGER===================
+Ba_name:     白敬亭吧
+Ba_m_number: 100659
+Ba_p_number: 551693
+Ba_desc:     内地男演员白敬亭
+================WARNING==DENGER===================
+Ba_name:     国洙吧
+Ba_m_number: 12580
+Ba_p_number: 329282
+Ba_desc:     RUNNINGMAN 男男cp 老虎长颈鹿 国洙
+================WARNING==DENGER===================
+Ba_name:     晶茜吧
+Ba_m_number: 66303
+Ba_p_number: 1338173
+Ba_desc:     节超茜奉，腻歪晶生，百度晶茜吧等你掉坑
+================WARNING==DENGER===================
+Ba_name:     姜gary吧
+Ba_m_number: 615976
+Ba_p_number: 1213742
+Ba_desc:     独一无二的姜Gary，想要拥有的姜Gary
+================WARNING==DENGER===================
+Ba_name:     贾乃亮吧
+Ba_m_number: 283808
+Ba_p_number: 519752
+Ba_desc:     甲虫帮，我们在一起
+================WARNING==DENGER===================
+Ba_name:     赵仁成吧
+Ba_m_number: 340333
+Ba_p_number: 1951131
+Ba_desc:     寅成君子，寅光闪耀！欢迎加入赵寅成吧！
+================WARNING==DENGER===================
+Ba_name:     何炅吧
+Ba_m_number: 424387
+Ba_p_number: 2731546
+Ba_desc:     炅言炅事炅风采，炅吧宝贝畅谈快乐以待
+================WARNING==DENGER===================
+Ba_name:     罗玉凤吧
+Ba_m_number: 80373
+Ba_p_number: 1328540
+Ba_desc:     打击网络诈骗，弘扬百度正气！
+================WARNING==DENGER===================
+Ba_name:     汪苏泷吧
+Ba_m_number: 639344
+Ba_p_number: 8621947
+Ba_desc:     【百度汪苏泷官方贴吧】欢迎您！
+================WARNING==DENGER===================
+Ba_name:     毛泽少吧
+Ba_m_number: 101639
+Ba_p_number: 1712815
+Ba_desc:     毛泽少官方百度贴吧
+================WARNING==DENGER===================
+Ba_name:     你大姨妈喝多了吧
+Ba_m_number: 6030
+Ba_p_number: 71450
+Ba_desc:     【最有节操段子】庙小妖风大，水浅王八多
+================WARNING==DENGER===================
+Ba_name:     许巍吧
+Ba_m_number: 316248
+Ba_p_number: 2142519
+Ba_desc:     愿清澈如莲，愿自由如风，愿爱如少年
+================WARNING==DENGER===================
+Ba_name:     exid吧
+Ba_m_number: 113853
+Ba_p_number: 343792
+Ba_desc:     WHOZ THAT GIRL?！韩国大势女子组合 EXID
+================WARNING==DENGER===================
+Ba_name:     郭碧婷吧
+Ba_m_number: 104089
+Ba_p_number: 691219
+Ba_desc:     她是南湘，她是妹花女神，她是——郭碧婷。
+================WARNING==DENGER===================
+Ba_name:     金钟大吧
+Ba_m_number: 830885
+Ba_p_number: 2118603
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     anti宋茜吧
+Ba_m_number: 36752
+Ba_p_number: 836744
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     张信哲吧
+Ba_m_number: 288708
+Ba_p_number: 2639336
+Ba_desc:     由哲带路聚一起，空出来的时间共享爱哲点滴
+================WARNING==DENGER===================
+Ba_name:     于正吧
+Ba_m_number: 36872
+Ba_p_number: 1059372
+Ba_desc:     爱正正！爱鱼丸！
+================WARNING==DENGER===================
+Ba_name:     马天宇吧
+Ba_m_number: 1201545
+Ba_p_number: 45703158
+Ba_desc:     天高海阔 羽宇相随
+================WARNING==DENGER===================
+Ba_name:     孙俪吧
+Ba_m_number: 595430
+Ba_p_number: 2668865
+Ba_desc:     米粒家园，一同分享孙俪最新资讯美图影音…
+================WARNING==DENGER===================
+Ba_name:     梅艳芳吧
+Ba_m_number: 486985
+Ba_p_number: 4088241
+Ba_desc:     从分享探讨Mui开始
+================WARNING==DENGER===================
+Ba_name:     张碧晨吧
+Ba_m_number: 96361
+Ba_p_number: 1865277
+Ba_desc:     内地歌手，第三季《中国好声音》冠军
+================WARNING==DENGER===================
+Ba_name:     霍唐吧
+Ba_m_number: 20771
+Ba_p_number: 1058296
+Ba_desc:     霍建华唐嫣、卿萱、金玉、温暖的地方叫霍唐
+================WARNING==DENGER===================
+Ba_name:     焦恩俊吧
+Ba_m_number: 279329
+Ba_p_number: 2755016
+Ba_desc:     以焦恩俊先生为中心，焦迷聚集的有爱小窝
+================WARNING==DENGER===================
+Ba_name:     汪峰吧
+Ba_m_number: 364050
+Ba_p_number: 1898293
+Ba_desc:     峰声怒放  信仰飘扬
+================WARNING==DENGER===================
+Ba_name:     凤凰传奇吧
+Ba_m_number: 265776
+Ba_p_number: 3342203
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     邓丽君吧
+Ba_m_number: 560782
+Ba_p_number: 3375828
+Ba_desc:     欢迎来到邓丽君吧
+================WARNING==DENGER===================
+Ba_name:     罗晋吧
+Ba_m_number: 344554
+Ba_p_number: 7978271
+Ba_desc:     与晋相伴，今生不换！欢迎晋牌萝卜入驻！
+================WARNING==DENGER===================
+Ba_name:     黄美英吧
+Ba_m_number: 639112
+Ba_p_number: 1920988
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     林小宅吧
+Ba_m_number: 72126
+Ba_p_number: 907831
+Ba_desc:     爱生活爱小宅！请看吧规并按格式发贴！
+================WARNING==DENGER===================
+Ba_name:     卡戴珊吧
+Ba_m_number: 35799
+Ba_p_number: 230397
+Ba_desc:     这里不仅是一个贴吧，欢迎有缘人来此一聚！
+================WARNING==DENGER===================
+Ba_name:     初恋夫妇吧
+Ba_m_number: 56070
+Ba_p_number: 1724750
+Ba_desc:     我们一心要走的路是秘密。——初恋夫妇
+================WARNING==DENGER===================
+Ba_name:     张丹峰吧
+Ba_m_number: 35440
+Ba_p_number: 250327
+Ba_desc:     内地演员张丹峰
+================WARNING==DENGER===================
+Ba_name:     陈意涵吧
+Ba_m_number: 279195
+Ba_p_number: 1133177
+Ba_desc:     百度陳意涵吧，有發有陽光。
+================WARNING==DENGER===================
+Ba_name:     无水维尼文吧
+Ba_m_number: 53615
+Ba_p_number: 109255
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     all橙吧
+Ba_m_number: 23888
+Ba_p_number: 983338
+Ba_desc:     最爱他温暖的微笑
+================WARNING==DENGER===================
+Ba_name:     王祖贤吧
+Ba_m_number: 551386
+Ba_p_number: 2393857
+Ba_desc:     贤迷们共同的家。爱贤护贤，为贤守候。
+================WARNING==DENGER===================
+Ba_name:     达瓦卓玛吧
+Ba_m_number: 187399
+Ba_p_number: 2470610
+Ba_desc:     我们之间只有七个音符的距离 
+================WARNING==DENGER===================
+Ba_name:     exo演绎吧
+Ba_m_number: 5699
+Ba_p_number: 1073745
+Ba_desc:     BarDuEXO演绎后援Bar.
+================WARNING==DENGER===================
+Ba_name:     萧亚轩吧
+Ba_m_number: 656933
+Ba_p_number: 30696593
+Ba_desc:     百度萧亚轩吧
+================WARNING==DENGER===================
+Ba_name:     多多吧
+Ba_m_number: 33187
+Ba_p_number: 255135
+Ba_desc:     流光旖旎 · 暖意缱绻 · 多吧畅谈
+================WARNING==DENGER===================
+Ba_name:     贾斯汀比伯吧
+Ba_m_number: 623125
+Ba_p_number: 2366704
+Ba_desc:     Justin Bieber资讯共享/交流娱乐/后援组织
+================WARNING==DENGER===================
+Ba_name:     gdragonkrystal吧
+Ba_m_number: 17405
+Ba_p_number: 343384
+Ba_desc:     权志龙+郑秀晶=G_stal
+================WARNING==DENGER===================
+Ba_name:     霍尊吧
+Ba_m_number: 33042
+Ba_p_number: 1727942
+Ba_desc:     霍尊的粉丝大本营
+================WARNING==DENGER===================
+Ba_name:     玄彬吧
+Ba_m_number: 134896
+Ba_p_number: 5081470
+Ba_desc:     兩耳不聞吧外事,一心只為玄彬駐
+================WARNING==DENGER===================
+Ba_name:     朝比奈沙树吧
+Ba_m_number: 10727
+Ba_p_number: 58674
+Ba_desc:     朝比奈沙树，我们心中的奈精灵，让爱飞翔吧
+================WARNING==DENGER===================
+Ba_name:     sistar吧
+Ba_m_number: 257675
+Ba_p_number: 678268
+Ba_desc:     sistar吧，star1聚集地，一起来关注sistar
+================WARNING==DENGER===================
+Ba_name:     rain吧
+Ba_m_number: 553640
+Ba_p_number: 8220255
+Ba_desc:     Rain韩国官网认定的中国官方Fans团体
+================WARNING==DENGER===================
+Ba_name:     桓桓一袅楚宫腰吧
+Ba_m_number: 4078
+Ba_p_number: 401062
+Ba_desc:     钢琴小王子宁桓宇的秘密花园
+================WARNING==DENGER===================
+Ba_name:     高圆圆吧
+Ba_m_number: 668569
+Ba_p_number: 2372077
+Ba_desc:     百度高圆圆吧（百度家圆）
+================WARNING==DENGER===================
+Ba_name:     got7王道吧
+Ba_m_number: 49015
+Ba_p_number: 882282
+Ba_desc:     爱生活爱搞基（GOT7）~！！
+================WARNING==DENGER===================
+Ba_name:     甄子丹吧
+Ba_m_number: 278770
+Ba_p_number: 2492609
+Ba_desc:     甄功夫的魅力
+================WARNING==DENGER===================
+Ba_name:     彬硕吧
+Ba_m_number: 31717
+Ba_p_number: 852652
+Ba_desc:     关于金宇彬和李钟硕的一切，彬硕cp粉丝基地
+================WARNING==DENGER===================
+Ba_name:     赵本山吧
+Ba_m_number: 267116
+Ba_p_number: 612748
+Ba_desc:     我有我喜欢 快乐常相伴
+================WARNING==DENGER===================
+Ba_name:     李胜贤吧
+Ba_m_number: 398334
+Ba_p_number: 1534126
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     曾轶可吧
+Ba_m_number: 369344
+Ba_p_number: 14722505
+Ba_desc:     听见曾轶可，越简单越感动。
+================WARNING==DENGER===================
+Ba_name:     金宇彬吧
+Ba_m_number: 692986
+Ba_p_number: 1383258
+Ba_desc:     拥有最高热情和爱的中国金宇彬粉丝会
+================WARNING==DENGER===================
+Ba_name:     岛崎遥香吧
+Ba_m_number: 276146
+Ba_p_number: 963367
+Ba_desc:     岛崎遥香的粉丝大本营
+================WARNING==DENGER===================
+Ba_name:     梁静茹吧
+Ba_m_number: 355716
+Ba_p_number: 5096386
+Ba_desc:     从这里，延续情歌天后带来的温暖慰籍
+================WARNING==DENGER===================
+Ba_name:     陈妍希吧
+Ba_m_number: 287638
+Ba_p_number: 1498948
+Ba_desc:     爱船已覆 陈氏倾城 妍如皓月 希若一梦
+================WARNING==DENGER===================
+Ba_name:     袁姗姗吧
+Ba_m_number: 334770
+Ba_p_number: 6433328
+Ba_desc:     百度袁姗姗吧，姗瑚鱼儿们的栖息地。
+================WARNING==DENGER===================
+Ba_name:     林峰吧
+Ba_m_number: 468768
+Ba_p_number: 10000926
+Ba_desc:     交流林峯作品专属林峯的个人贴吧
+================WARNING==DENGER===================
+Ba_name:     娄艺潇吧
+Ba_m_number: 347794
+Ba_p_number: 3304978
+Ba_desc:     会跳舞的歌手里体育最好的演员
+================WARNING==DENGER===================
+Ba_name:     勋白吧
+Ba_m_number: 44273
+Ba_p_number: 654311
+Ba_desc:     EXO-K吴世勋与边伯贤应援贴吧。
+================WARNING==DENGER===================
+Ba_name:     贤旭吧
+Ba_m_number: 34251
+Ba_p_number: 1985150
+Ba_desc:     SuperJunior成员圭贤×厉旭 HYUNWOOK ZZAN！
+================WARNING==DENGER===================
+Ba_name:     onedirection吧
+Ba_m_number: 325143
+Ba_p_number: 2223662
+Ba_desc:     英国/爱尔兰组合One Direction歌迷交流平台
+================WARNING==DENGER===================
+Ba_name:     by2吧
+Ba_m_number: 329266
+Ba_p_number: 4060712
+Ba_desc:     90后双女神组合By2专属粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     舒畅吧
+Ba_m_number: 338912
+Ba_p_number: 5285655
+Ba_desc:     舒畅吧是畅迷交流的平台
+================WARNING==DENGER===================
+Ba_name:     模特刘雯吧
+Ba_m_number: 41623
+Ba_p_number: 500045
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     金卡戴珊吧
+Ba_m_number: 4518
+Ba_p_number: 76529
+Ba_desc:     Kim Kardashian官方贴吧
+================WARNING==DENGER===================
+Ba_name:     田中美佐吧
+Ba_m_number: 12000
+Ba_p_number: 7816
+Ba_desc:     爱生活，爱田中美佐。
+================WARNING==DENGER===================
+Ba_name:     徐珠贤吧
+Ba_m_number: 600432
+Ba_p_number: 2110963
+Ba_desc:     百度徐珠贤吧.【徐珠贤 你在我心上】
+================WARNING==DENGER===================
+Ba_name:     李玉刚吧
+Ba_m_number: 306252
+Ba_p_number: 6731430
+Ba_desc:     可畅谈，交流，获得李玉刚动向的平台
+================WARNING==DENGER===================
+Ba_name:     陈晓赵丽颖吧
+Ba_m_number: 30742
+Ba_p_number: 919248
+Ba_desc:     用最真诚的文字记录唯爱颖晓的美好青春
+================WARNING==DENGER===================
+Ba_name:     昆凌吧
+Ba_m_number: 20019
+Ba_p_number: 90119
+Ba_desc:     如果你是疯狂的，那就一起疯狂地爱昆凌吧！
+================WARNING==DENGER===================
+Ba_name:     赵嘉敏吧
+Ba_m_number: 116477
+Ba_p_number: 1025914
+Ba_desc:     让我们为了守护小嘉敏的笑容一起加油吧
+================WARNING==DENGER===================
+Ba_name:     蒋欣吧
+Ba_m_number: 256421
+Ba_p_number: 545448
+Ba_desc:     蒋心相随     欣羽相伴
+================WARNING==DENGER===================
+Ba_name:     leepace吧
+Ba_m_number: 63385
+Ba_p_number: 714544
+Ba_desc:     美国演员Lee Pace / 李佩斯
+================WARNING==DENGER===================
+Ba_name:     赵雅芝吧
+Ba_m_number: 327130
+Ba_p_number: 9194561
+Ba_desc:     海内存芝己，天雅若比邻
+================WARNING==DENGER===================
+Ba_name:     黄晓明吧
+Ba_m_number: 343693
+Ba_p_number: 4629234
+Ba_desc:     爱晓明，爱明教
+================WARNING==DENGER===================
+Ba_name:     没关系爸爸的女儿吧
+Ba_m_number: 3909
+Ba_p_number: 66143
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     uniq吧
+Ba_m_number: 43553
+Ba_p_number: 723557
+Ba_desc:     UNIQ新男团出道，请多多发帖，给力支持！
+================WARNING==DENGER===================
+Ba_name:     金泫雅吧
+Ba_m_number: 386217
+Ba_p_number: 968436
+Ba_desc:     这里唯爱马儿，金泫雅中国粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     豆花茶楼常来往客户吧
+Ba_m_number: 100740
+Ba_p_number: 5027789
+Ba_desc:     这里是喜欢韩国明星郑允浩和金在中的贴吧
+================WARNING==DENGER===================
+Ba_name:     彭于晏吧
+Ba_m_number: 408279
+Ba_p_number: 1394874
+Ba_desc:     LOVE，他是一切存在的理由！
+================WARNING==DENGER===================
+Ba_name:     周柏豪吧
+Ba_m_number: 68049
+Ba_p_number: 706100
+Ba_desc:     分享周柏豪最新资讯，各地后援共聚一堂
+================WARNING==DENGER===================
+Ba_name:     兴鹿吧
+Ba_m_number: 66910
+Ba_p_number: 2126450
+Ba_desc:     喜欢张艺兴和鹿晗的所有星露的温馨的家
+================WARNING==DENGER===================
+Ba_name:     金雪炫吧
+Ba_m_number: 27665
+Ba_p_number: 101209
+Ba_desc:     韩国女团AOA成员金雪炫粉丝聚集地欢迎你！
+================WARNING==DENGER===================
+Ba_name:     王嘉尔吧
+Ba_m_number: 121764
+Ba_p_number: 565269
+Ba_desc:     追梦者王嘉尔的温暖小屋
+================WARNING==DENGER===================
+Ba_name:     杨丞琳吧
+Ba_m_number: 344472
+Ba_p_number: 13661656
+Ba_desc:     内地最具影响力的杨丞琳粉丝后援会
+================WARNING==DENGER===================
+Ba_name:     欧美艳星吧
+Ba_m_number: 10866
+Ba_p_number: 72865
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     金俊勉吧
+Ba_m_number: 736547
+Ba_p_number: 1439623
+Ba_desc:     百度金俊勉吧
+================WARNING==DENGER===================
+Ba_name:     all兴吧
+Ba_m_number: 41867
+Ba_p_number: 989974
+Ba_desc:     兴受无敌， 唯我all兴！
+================WARNING==DENGER===================
+Ba_name:     麻辣女兵吧
+Ba_m_number: 49558
+Ba_p_number: 1572106
+Ba_desc:     创造温馨感动，宣扬麻辣精神，发扬正能量。
+================WARNING==DENGER===================
+Ba_name:     2080冕哥吧
+Ba_m_number: 27926
+Ba_p_number: 246263
+Ba_desc:     歪歪主播冕哥   频道2496
+================WARNING==DENGER===================
+Ba_name:     ikon吧
+Ba_m_number: 136233
+Ba_p_number: 821760
+Ba_desc:     YG新男团 IKON吧
+================WARNING==DENGER===================
+Ba_name:     柳岩吧
+Ba_m_number: 625718
+Ba_p_number: 432932
+Ba_desc:     柳岩和柳丝温暖的家
+================WARNING==DENGER===================
+Ba_name:     单色凌吧
+Ba_m_number: 269696
+Ba_p_number: 3771611
+Ba_desc:     最爱老大的冰淇凌在哪里，在这里。
+================WARNING==DENGER===================
+Ba_name:     李胜基吧
+Ba_m_number: 492545
+Ba_p_number: 3876560
+Ba_desc:     Airen家园★李昇基新闻、资讯集中地
+================WARNING==DENGER===================
+Ba_name:     朴孝敏吧
+Ba_m_number: 839783
+Ba_p_number: 1567982
+Ba_desc:     这里有最新的孝敏相关资讯
+================WARNING==DENGER===================
+Ba_name:     欧豪吧
+Ba_m_number: 701890
+Ba_p_number: 6608327
+Ba_desc:     欧豪粉丝基地
+================WARNING==DENGER===================
+Ba_name:     马可吧
+Ba_m_number: 8492
+Ba_p_number: 203700
+Ba_desc:     马可马可！非你不可！
+================WARNING==DENGER===================
+Ba_name:     梁博吧
+Ba_m_number: 282393
+Ba_p_number: 6978291
+Ba_desc:     阳光摇滚，不染家园。
+================WARNING==DENGER===================
+Ba_name:     张智霖吧
+Ba_m_number: 284471
+Ba_p_number: 1341935
+Ba_desc:     张智霖贴吧
+================WARNING==DENGER===================
+Ba_name:     古巨基吧
+Ba_m_number: 187037
+Ba_p_number: 1605197
+Ba_desc:     找到你是我最伟大的成功
+================WARNING==DENGER===================
+Ba_name:     王杰吧
+Ba_m_number: 288448
+Ba_p_number: 2822825
+Ba_desc:     百度王杰吧---全球杰迷的家
+================WARNING==DENGER===================
+Ba_name:     云飞吧
+Ba_m_number: 13174
+Ba_p_number: 1304657
+Ba_desc:     百度云飞吧，祥云用爱为云飞筑起温暖的家～
+================WARNING==DENGER===================
+Ba_name:     崔雪莉吧
+Ba_m_number: 596655
+Ba_p_number: 1732735
+Ba_desc:     一心一意崔雪莉，一生一世崔真理
+================WARNING==DENGER===================
+Ba_name:     刘惜君吧
+Ba_m_number: 393942
+Ba_p_number: 13365334
+Ba_desc:     一声惜君，一世相随！且行且珍“惜”。
+================WARNING==DENGER===================
+Ba_name:     黄丽玲吧
+Ba_m_number: 107962
+Ba_p_number: 857672
+Ba_desc:     天生歌姬A-Lin
+================WARNING==DENGER===================
+Ba_name:     王君安吧
+Ba_m_number: 223543
+Ba_p_number: 2097966
+Ba_desc:     君亲的网络家园
+================WARNING==DENGER===================
+Ba_name:     主播吧
+Ba_m_number: 288384
+Ba_p_number: 1655610
+Ba_desc:     主播和粉丝的交流地，希望大家找到心中的ta
+================WARNING==DENGER===================
+Ba_name:     酒窝夫妇吧
+Ba_m_number: 43650
+Ba_p_number: 1828523
+Ba_desc:     集酒窩夫婦全面信息~利特素拉F5REVER
+================WARNING==DENGER===================
+Ba_name:     保罗沃克吧
+Ba_m_number: 45567
+Ba_p_number: 704293
+Ba_desc:     讨论欧美明星、大帅哥保罗沃克影片消息等。
+================WARNING==DENGER===================
+Ba_name:     韩国车模吧
+Ba_m_number: 30515
+Ba_p_number: 550623
+Ba_desc:     聚焦韩国美女模特 分享相关资源动态
+================WARNING==DENGER===================
+Ba_name:     郭采洁吧
+Ba_m_number: 326940
+Ba_p_number: 1464913
+Ba_desc:     喜欢郭采洁是一件很骄傲的事！
+================WARNING==DENGER===================
+Ba_name:     正太cp吧
+Ba_m_number: 38821
+Ba_p_number: 762837
+Ba_desc:     防弹少年团成员田柾国和金泰亨的cp吧
+================WARNING==DENGER===================
+Ba_name:     金明秀吧
+Ba_m_number: 341693
+Ba_p_number: 1153729
+Ba_desc:     百度金明洙吧 LkimBar
+================WARNING==DENGER===================
+Ba_name:     蓉晓吧
+Ba_m_number: 17809
+Ba_p_number: 1273881
+Ba_desc:     百度蓉晓吧，晓蓉球驻扎地，蓉晓一生推！
+================WARNING==DENGER===================
+Ba_name:     2ne1吧
+Ba_m_number: 647181
+Ba_p_number: 2142661
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     u-know允浩吧
+Ba_m_number: 620642
+Ba_p_number: 11618000
+Ba_desc:     中国允浩房(阳光盐城)是允浩的移动城堡
+================WARNING==DENGER===================
+Ba_name:     汤姆希德勒斯顿吧
+Ba_m_number: 321802
+Ba_p_number: 1145498
+Ba_desc:     About Tom Hiddleston.
+================WARNING==DENGER===================
+Ba_name:     余文乐吧
+Ba_m_number: 363468
+Ba_p_number: 935504
+Ba_desc:     余文乐吧~欢迎可乐前来交流
+================WARNING==DENGER===================
+Ba_name:     董贞吧
+Ba_m_number: 280549
+Ba_p_number: 3848093
+Ba_desc:     古风，仙侠，因为贞姐而相聚，我们在一起
+================WARNING==DENGER===================
+Ba_name:     晋嫣吧
+Ba_m_number: 26733
+Ba_p_number: 736379
+Ba_desc:     什锦糖的大家庭。不卑不亢，勿忘初衷。
+================WARNING==DENGER===================
+Ba_name:     布兰妮吧
+Ba_m_number: 299891
+Ba_p_number: 4627576
+Ba_desc:     霓裳神话,惟妮独尊
+================WARNING==DENGER===================
+Ba_name:     吴奇隆吧
+Ba_m_number: 688077
+Ba_p_number: 10198460
+Ba_desc:     这个贴吧的吧友都是奇隆·BAOBAFAN·吴的NCF
+================WARNING==DENGER===================
+Ba_name:     mc白浩吧
+Ba_m_number: 85958
+Ba_p_number: 3386722
+Ba_desc:     讲述网络红人与浩家的传奇人生！
+================WARNING==DENGER===================
+Ba_name:     韩娱吧
+Ba_m_number: 30590
+Ba_p_number: 1304256
+Ba_desc:     韩娱吧，力求做韩饭们最温暖的港湾
+================WARNING==DENGER===================
+Ba_name:     金宥真吧
+Ba_m_number: 232807
+Ba_p_number: 302332
+Ba_desc:     百度金宥真吧 Baidu KimYujin Bar
+================WARNING==DENGER===================
+Ba_name:     tf凯源吧
+Ba_m_number: 25839
+Ba_p_number: 388954
+Ba_desc:     TFBOYS王俊凯X王源的粉丝小窝
+================WARNING==DENGER===================
+Ba_name:     exo小剧场吧
+Ba_m_number: 52825
+Ba_p_number: 878783
+Ba_desc:     最初的心走最远的路
+================WARNING==DENGER===================
+Ba_name:     陈百强吧
+Ba_m_number: 214738
+Ba_p_number: 1628965
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     全智贤吧
+Ba_m_number: 311496
+Ba_p_number: 1383959
+Ba_desc:     韩国明星全智贤吧
+================WARNING==DENGER===================
+Ba_name:     沈肯尼吧
+Ba_m_number: 368441
+Ba_p_number: 4331630
+Ba_desc:     爱生活，爱肯尼，爱上这里，畅所欲言！
+================WARNING==DENGER===================
+Ba_name:     陆星材吧
+Ba_m_number: 41667
+Ba_p_number: 130450
+Ba_desc:     不仅帅气还很会卖萌的陆星材吧
+================WARNING==DENGER===================
+Ba_name:     金珉硕吧
+Ba_m_number: 755996
+Ba_p_number: 1656943
+Ba_desc:     娱乐明星 韩国明星
+================WARNING==DENGER===================
+Ba_name:     btob吧
+Ba_m_number: 153212
+Ba_p_number: 298137
+Ba_desc:     BORN TO BEAT !!! BTOB !!!
+================WARNING==DENGER===================
+Ba_name:     宋钟基吧
+Ba_m_number: 950371
+Ba_p_number: 4148439
+Ba_desc:     安利韩国演员宋仲基
+================WARNING==DENGER===================
+Ba_name:     佟丽娅吧
+Ba_m_number: 598789
+Ba_p_number: 2102278
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     misakiren莲美恋吧
+Ba_m_number: 6524
+Ba_p_number: 10339
+Ba_desc:     莲美恋 交流 开心 美丽
+================WARNING==DENGER===================
+Ba_name:     黑粉吧
+Ba_m_number: 13734
+Ba_p_number: 368985
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     王心凌吧
+Ba_m_number: 352451
+Ba_p_number: 19720507
+Ba_desc:     喜爱王心凌的凌宝贝聚集地
+================WARNING==DENGER===================
+Ba_name:     胡冰卿吧
+Ba_m_number: 29645
+Ba_p_number: 539297
+Ba_desc:     刨冰情谊浓，只为冰卿融！
+================WARNING==DENGER===================
+Ba_name:     山下智久吧
+Ba_m_number: 389315
+Ba_p_number: 14472304
+Ba_desc:     山下智久，昵称山P，日本歌手、演员。
+================WARNING==DENGER===================
+Ba_name:     赵小磊吧
+Ba_m_number: 46718
+Ba_p_number: 1235920
+Ba_desc:     赵小磊百度贴吧欢迎您
+================WARNING==DENGER===================
+Ba_name:     胡彦斌吧
+Ba_m_number: 275235
+Ba_p_number: 2651861
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     奥黛丽赫本吧
+Ba_m_number: 357319
+Ba_p_number: 961761
+Ba_desc:     她远去带走一个时代；一转身便是一个世纪
+================WARNING==DENGER===================
+Ba_name:     尼坤吧
+Ba_m_number: 654481
+Ba_p_number: 984418
+Ba_desc:     尼坤真爱后宫吧
+================WARNING==DENGER===================
+Ba_name:     李艺彤吧
+Ba_m_number: 99241
+Ba_p_number: 1375230
+Ba_desc:     让我们一起热爱发卡吧
+================WARNING==DENGER===================
+Ba_name:     exom吧
+Ba_m_number: 832446
+Ba_p_number: 3903281
+Ba_desc:     百度EXOM吧 EXO-L聚集地
+================WARNING==DENGER===================
+Ba_name:     中国超模吧
+Ba_m_number: 14154
+Ba_p_number: 64384
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     何智媛吧
+Ba_m_number: 252806
+Ba_p_number: 2415619
+Ba_desc:     永远爱河智苑的1023
+================WARNING==DENGER===================
+Ba_name:     朴宝英吧
+Ba_m_number: 281798
+Ba_p_number: 508394
+Ba_desc:     关注韩国演员朴宝英最新动态
+================WARNING==DENGER===================
+Ba_name:     蒋劲夫吧
+Ba_m_number: 586349
+Ba_p_number: 1707945
+Ba_desc:     蒋劲夫吧为演员蒋劲夫官方贴吧
+================WARNING==DENGER===================
+Ba_name:     卓依婷吧
+Ba_m_number: 270684
+Ba_p_number: 3295759
+Ba_desc:     亲爱的婷迷，亲爱的你
+================WARNING==DENGER===================
+Ba_name:     金贤重吧
+Ba_m_number: 647090
+Ba_p_number: 7543212
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     张若昀吧
+Ba_m_number: 215649
+Ba_p_number: 1464736
+Ba_desc:     张若昀的昀家人
+================WARNING==DENGER===================
+Ba_name:     早安少女组吧
+Ba_m_number: 274370
+Ba_p_number: 2327549
+Ba_desc:     Morning~早安吧是早安家族粉丝共同交流之地
+================WARNING==DENGER===================
+Ba_name:     李瑞镇吧
+Ba_m_number: 12949
+Ba_p_number: 950042
+Ba_desc:     李瑞鎮的世界,瑞蜜们相約的美麗花園
+================WARNING==DENGER===================
+Ba_name:     大家来唱歌吧
+Ba_m_number: 39598
+Ba_p_number: 1106491
+Ba_desc:     这里只有你的声音！来吧！吼出你的个性来！
+================WARNING==DENGER===================
+Ba_name:     戚薇吧
+Ba_m_number: 614463
+Ba_p_number: 3440593
+Ba_desc:     百度戚薇吧，小白兔们永远的家。
+================WARNING==DENGER===================
+Ba_name:     武艺吧
+Ba_m_number: 683052
+Ba_p_number: 48784826
+Ba_desc:     百度武艺吧
+================WARNING==DENGER===================
+Ba_name:     张晋吧
+Ba_m_number: 15911
+Ba_p_number: 114834
+Ba_desc:     张晋百度贴吧后援会
+================WARNING==DENGER===================
+Ba_name:     东永裴吧
+Ba_m_number: 383209
+Ba_p_number: 1376723
+Ba_desc:     韩国组合BIGBANG成员--太阳（东永裴）
+================WARNING==DENGER===================
+Ba_name:     宋小宝吧
+Ba_m_number: 147198
+Ba_p_number: 226478
+Ba_desc:     八宝粥爱宝哥，爱生活，我们为自己代言！
+================WARNING==DENGER===================
+Ba_name:     听香水榭吧
+Ba_m_number: 14545
+Ba_p_number: 1094903
+Ba_desc:     这里妹纸欢声笑语 这里基佬宾至如归
+================WARNING==DENGER===================
+Ba_name:     kara吧
+Ba_m_number: 249291
+Ba_p_number: 1953901
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     李连杰吧
+Ba_m_number: 276882
+Ba_p_number: 1595516
+Ba_desc:     侠客营，杰伴同行。
+================WARNING==DENGER===================
+Ba_name:     蔡徐坤吧
+Ba_m_number: 35974
+Ba_p_number: 89239
+Ba_desc:     欢迎所有喜欢坤坤的人的加入我们IKUN大家庭
+================WARNING==DENGER===================
+Ba_name:     滨崎步吧
+Ba_m_number: 319578
+Ba_p_number: 5313906
+Ba_desc:     这里是最有爱的滨崎步歌迷聚集地！
+================WARNING==DENGER===================
+Ba_name:     尹恩惠吧
+Ba_m_number: 358171
+Ba_p_number: 2947219
+Ba_desc:     我们因为尹恩惠聚集在这里，尹恩惠吧欢迎您
+================WARNING==DENGER===================
+Ba_name:     锋菲恋吧
+Ba_m_number: 10517
+Ba_p_number: 444687
+Ba_desc:     锋菲天生一对
+================WARNING==DENGER===================
+Ba_name:     陈冰吧
+Ba_m_number: 16476
+Ba_p_number: 230859
+Ba_desc:     中国好声音第三季学员陈冰粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     俞飞鸿吧
+Ba_m_number: 238464
+Ba_p_number: 1006164
+Ba_desc:     演员俞飞鸿贴吧
+================WARNING==DENGER===================
+Ba_name:     金莎吧
+Ba_m_number: 337454
+Ba_p_number: 6302980
+Ba_desc:     百度金莎吧，天下莎拉的家
+================WARNING==DENGER===================
+Ba_name:     刘涛吧
+Ba_m_number: 907548
+Ba_p_number: 9185131
+Ba_desc:     百度涛吧  爱涛之家
+================WARNING==DENGER===================
+Ba_name:     克里斯汀·斯图尔特吧
+Ba_m_number: 306623
+Ba_p_number: 811797
+Ba_desc:     Kristen Stewart For Life!
+================WARNING==DENGER===================
+Ba_name:     杜淳吧
+Ba_m_number: 370688
+Ba_p_number: 4920580
+Ba_desc:     杜淳百度贴吧，为杜淳加油，为杜淳呐喊！
+================WARNING==DENGER===================
+Ba_name:     林正英吧
+Ba_m_number: 282152
+Ba_p_number: 1074712
+Ba_desc:     怀念香港已故明星林正英先生！
+================WARNING==DENGER===================
+Ba_name:     吴莫愁吧
+Ba_m_number: 273483
+Ba_p_number: 4420865
+Ba_desc:     追寻梦想坚持自我，不要等待，就现在！
+================WARNING==DENGER===================
+Ba_name:     陕西大学吧
+Ba_m_number: 3436
+Ba_p_number: 26193
+Ba_desc:     陕西所有大学生的网上论坛
+================WARNING==DENGER===================
+Ba_name:     艺花吧
+Ba_m_number: 7187
+Ba_p_number: 537773
+Ba_desc:     百度艺花吧
+================WARNING==DENGER===================
+Ba_name:     大桥miku吧
+Ba_m_number: 476710
+Ba_p_number: 288104
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     柏木由纪吧
+Ba_m_number: 293109
+Ba_p_number: 1999772
+Ba_desc:     音楽人
+================WARNING==DENGER===================
+Ba_name:     赵奕欢吧
+Ba_m_number: 334938
+Ba_p_number: 4682759
+Ba_desc:     倾欢乐豆之力，守赵奕欢之路。
+================WARNING==DENGER===================
+Ba_name:     黄渤吧
+Ba_m_number: 299214
+Ba_p_number: 651150
+Ba_desc:     爱黄渤、爱生活
+================WARNING==DENGER===================
+Ba_name:     exo灿白吧
+Ba_m_number: 32579
+Ba_p_number: 422937
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     含恩静吧
+Ba_m_number: 773928
+Ba_p_number: 1608400
+Ba_desc:     恩静的贴吧！恩宠的家！
+================WARNING==DENGER===================
+Ba_name:     水原希子吧
+Ba_m_number: 111608
+Ba_p_number: 249058
+Ba_desc:     WE LOVE К!KO
+================WARNING==DENGER===================
+Ba_name:     孔垂楠吧
+Ba_m_number: 64437
+Ba_p_number: 894137
+Ba_desc:     一垂定音?楠得有爱
+================WARNING==DENGER===================
+Ba_name:     颖儿吧
+Ba_m_number: 138971
+Ba_p_number: 381231
+Ba_desc:     形颖不离，与颖同行
+================WARNING==DENGER===================
+Ba_name:     郁可唯吧
+Ba_m_number: 409796
+Ba_p_number: 7136412
+Ba_desc:     郁可唯歌迷交流中心
+================WARNING==DENGER===================
+Ba_name:     皇冠夫妇吧
+Ba_m_number: 31593
+Ba_p_number: 1741157
+Ba_desc:     欲戴王冠，必承其重。
+================WARNING==DENGER===================
+Ba_name:     exo城堡吧
+Ba_m_number: 41729
+Ba_p_number: 454245
+Ba_desc:     EXO成员CHEN＆XIUMIN 的双人贴吧
+================WARNING==DENGER===================
+Ba_name:     曺圭贤吧
+Ba_m_number: 574002
+Ba_p_number: 2280555
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     郑恩智吧
+Ba_m_number: 505354
+Ba_p_number: 731223
+Ba_desc:     所有喜欢恩地的善良恩地饭交流的家园
+================WARNING==DENGER===================
+Ba_name:     七朵组合吧
+Ba_m_number: 252846
+Ba_p_number: 992266
+Ba_desc:     国内第一支主打中国风女子组合
+================WARNING==DENGER===================
+Ba_name:     凯蒂派瑞吧
+Ba_m_number: 317365
+Ba_p_number: 1637410
+Ba_desc:     水果姐Katy Perry资源、新闻、美图集中地
+================WARNING==DENGER===================
+Ba_name:     朱之文吧
+Ba_m_number: 256575
+Ba_p_number: 4392640
+Ba_desc:     大衣哥朱之文——最权威信息资源网略门户
+================WARNING==DENGER===================
+Ba_name:     瑶婷吧
+Ba_m_number: 8283
+Ba_p_number: 523805
+Ba_desc:     就算痛醒剩下烟雾也记得这场华丽的残酷
+================WARNING==DENGER===================
+Ba_name:     山田凉介吧
+Ba_m_number: 471642
+Ba_p_number: 3374447
+Ba_desc:     日本当红年轻偶像，Hey!Say!JUMP及NYC成员
+================WARNING==DENGER===================
+Ba_name:     林志颖吧
+Ba_m_number: 731824
+Ba_p_number: 6345773
+Ba_desc:     做一个像林志颖一样的梦想实现家！！！
+================WARNING==DENGER===================
+Ba_name:     max昌珉吧
+Ba_m_number: 582723
+Ba_p_number: 7876036
+Ba_desc:     CHANGMIN IS MY LIFE 陪伴沈昌珉成长
+================WARNING==DENGER===================
+Ba_name:     exo肉文吧
+Ba_m_number: 9461
+Ba_p_number: 164690
+Ba_desc:     exo的粉红聚集地，Our favorite EXO
+================WARNING==DENGER===================
+Ba_name:     林青霞吧
+Ba_m_number: 302197
+Ba_p_number: 1559499
+Ba_desc:     窗里窗外 云去云来 林青霞
+================WARNING==DENGER===================
+Ba_name:     宋闵浩吧
+Ba_m_number: 54255
+Ba_p_number: 292104
+Ba_desc:     追随梦想永不放弃的宋闵浩
+================WARNING==DENGER===================
+Ba_name:     孔孝真吧
+Ba_m_number: 56963
+Ba_p_number: 844263
+Ba_desc:     孔曉振，笑着如春温和的女子，演技个性時尚
+================WARNING==DENGER===================
+Ba_name:     爱粽不粽吧
+Ba_m_number: 41579
+Ba_p_number: 5564820
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     kryssica吧
+Ba_m_number: 18037
+Ba_p_number: 430708
+Ba_desc:     郑氏姐妹CP饭的聚集地
+================WARNING==DENGER===================
+Ba_name:     陆毅吧
+Ba_m_number: 508233
+Ba_p_number: 1911014
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     江映蓉吧
+Ba_m_number: 185582
+Ba_p_number: 3681120
+Ba_desc:     华语乐坛唱跳型歌手江映蓉的粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     允鹿吧
+Ba_m_number: 27964
+Ba_p_number: 542092
+Ba_desc:     唯鹿晗唯林允儿
+================WARNING==DENGER===================
+Ba_name:     速卖通吧
+Ba_m_number: 70406
+Ba_p_number: 802426
+Ba_desc:     速卖通交流吧
+================WARNING==DENGER===================
+Ba_name:     千源吧
+Ba_m_number: 39513
+Ba_p_number: 283783
+Ba_desc:     TFBOYS成员易烊千玺与王源双人贴吧
+================WARNING==DENGER===================
+Ba_name:     汤唯吧
+Ba_m_number: 370379
+Ba_p_number: 1078109
+Ba_desc:     演员汤唯的影迷贴吧
+================WARNING==DENGER===================
+Ba_name:     杨蓉吧
+Ba_m_number: 351480
+Ba_p_number: 983454
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     吴映洁吧
+Ba_m_number: 574139
+Ba_p_number: 2749020
+Ba_desc:     台湾艺人鬼鬼吴映洁官方后援会
+================WARNING==DENGER===================
+Ba_name:     艾玛沃特森吧
+Ba_m_number: 329009
+Ba_p_number: 750692
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     宝石爱吧
+Ba_m_number: 15446
+Ba_p_number: 477174
+Ba_desc:     fx组合刘逸云&amp;郑秀晶CP贴吧
+================WARNING==DENGER===================
+Ba_name:     吴昕吧
+Ba_m_number: 171688
+Ba_p_number: 433144
+Ba_desc:     吴昕粉丝夹心糖的交流天地
+================WARNING==DENGER===================
+Ba_name:     白举纲吧
+Ba_m_number: 599501
+Ba_p_number: 4758980
+Ba_desc:     2013快乐男声白举纲
+================WARNING==DENGER===================
+Ba_name:     暮光吧
+Ba_m_number: 24447
+Ba_p_number: 699218
+Ba_desc:     朝发暮至，散万千梦想之光。以梦为马，执…
+================WARNING==DENGER===================
+Ba_name:     林宥嘉吧
+Ba_m_number: 661149
+Ba_p_number: 3148086
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     fx和exo的恋爱基地吧
+Ba_m_number: 8817
+Ba_p_number: 174435
+Ba_desc:     两首钗头凤,一段未了情
+================WARNING==DENGER===================
+Ba_name:     rmiuc吧
+Ba_m_number: 6727
+Ba_p_number: 33625
+Ba_desc:     Rmiuc吧真诚希望您的加入。爱R叔，爱生活！
+================WARNING==DENGER===================
+Ba_name:     豪阳吧
+Ba_m_number: 19233
+Ba_p_number: 941411
+Ba_desc:     欧豪、张阳阳，兄弟不是说说而已
+================WARNING==DENGER===================
+Ba_name:     all灿烈吧
+Ba_m_number: 13226
+Ba_p_number: 189862
+Ba_desc:     爱他就要让他在下面！
+================WARNING==DENGER===================
+Ba_name:     exo驯鹿吧完结文库吧
+Ba_m_number: 41007
+Ba_p_number: 153286
+Ba_desc:     喜欢看exo驯鹿完结文的人的聚集地
+================WARNING==DENGER===================
+Ba_name:     陈大惠吧
+Ba_m_number: 250624
+Ba_p_number: 497097
+Ba_desc:     和谐世界，从我心开始。
+================WARNING==DENGER===================
+Ba_name:     南笙吧
+Ba_m_number: 109780
+Ba_p_number: 2529728
+Ba_desc:     最温柔的刺客
+================WARNING==DENGER===================
+Ba_name:     驯鹿吧
+Ba_m_number: 56496
+Ba_p_number: 685560
+Ba_desc:     你我非双生，不语却知心。
+================WARNING==DENGER===================
+Ba_name:     taeny吧
+Ba_m_number: 32478
+Ba_p_number: 632488
+Ba_desc:     金泰妍 x 黄美英 Believe in TaeNy
+================WARNING==DENGER===================
+Ba_name:     missa组合吧
+Ba_m_number: 274325
+Ba_p_number: 786789
+Ba_desc:     关于missA的一切。欢迎大家！
+================WARNING==DENGER===================
+Ba_name:     exok吧
+Ba_m_number: 706236
+Ba_p_number: 1261890
+Ba_desc:     这里是百度EXOK吧欢迎大家来哦
+================WARNING==DENGER===================
+Ba_name:     吧
+Ba_m_number: 7330
+Ba_p_number: 7250
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     林志玲吧
+Ba_m_number: 354453
+Ba_p_number: 1112084
+Ba_desc:     林志玲贴吧后援团 美由心生 心随玲动
+================WARNING==DENGER===================
+Ba_name:     李志吧
+Ba_m_number: 283183
+Ba_p_number: 1539712
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     谭咏麟吧
+Ba_m_number: 246395
+Ba_p_number: 1713213
+Ba_desc:     中国大陆最具规模的谭咏麟讨论区
+================WARNING==DENGER===================
+Ba_name:     斯嘉丽·约翰逊吧
+Ba_m_number: 300866
+Ba_p_number: 340504
+Ba_desc:     以女星Scarlett Johansson为焦点的Icer地盘
+================WARNING==DENGER===================
+Ba_name:     刘忻吧
+Ba_m_number: 761619
+Ba_p_number: 18038091
+Ba_desc:     小鬼刘忻
+================WARNING==DENGER===================
+Ba_name:     李宗泫吧
+Ba_m_number: 257445
+Ba_p_number: 394400
+Ba_desc:     李宗泫(CNBLUE)相关图片、视频、新闻等
+================WARNING==DENGER===================
+Ba_name:     郑源吧
+Ba_m_number: 274838
+Ba_p_number: 4834891
+Ba_desc:     郑源吧
+================WARNING==DENGER===================
+Ba_name:     炎亚纶吧
+Ba_m_number: 682397
+Ba_p_number: 6431090
+Ba_desc:     百度炎亚纶贴吧
+================WARNING==DENGER===================
+Ba_name:     尚雯婕吧
+Ba_m_number: 375201
+Ba_p_number: 24636209
+Ba_desc:     芝麻开花婕婕高！！！
+================WARNING==DENGER===================
+Ba_name:     威妮夫妇吧
+Ba_m_number: 8917
+Ba_p_number: 1180530
+Ba_desc:     用心關注，用心維護，威妮夫婦，邀您進駐！
+================WARNING==DENGER===================
+Ba_name:     徐良吧
+Ba_m_number: 375083
+Ba_p_number: 7522875
+Ba_desc:     徐良百度贴吧
+================WARNING==DENGER===================
+Ba_name:     owlcity吧
+Ba_m_number: 255887
+Ba_p_number: 625209
+Ba_desc:     猫头鹰们的猫头鹰之城——Owl City
+================WARNING==DENGER===================
+Ba_name:     李治廷吧
+Ba_m_number: 28082
+Ba_p_number: 210328
+Ba_desc:     百度李治廷贴吧&lt;We Love AARIF&gt;
+================WARNING==DENGER===================
+Ba_name:     杨钰莹吧
+Ba_m_number: 362922
+Ba_p_number: 2892988
+Ba_desc:     聆听杨钰莹的音乐，感受杨钰莹的甜美。
+================WARNING==DENGER===================
+Ba_name:     王丽坤吧
+Ba_m_number: 273257
+Ba_p_number: 516144
+Ba_desc:     本吧是王丽坤影视，生活，点点滴滴的汇集…
+================WARNING==DENGER===================
+Ba_name:     李泰民吧
+Ba_m_number: 495520
+Ba_p_number: 1219230
+Ba_desc:     SHINee组合成员李泰民的专属贴吧
+================WARNING==DENGER===================
+Ba_name:     troublemaker吧
+Ba_m_number: 525549
+Ba_p_number: 782395
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     翰爽吧
+Ba_m_number: 45689
+Ba_p_number: 1513316
+Ba_desc:     温暖不变爱不变，百度翰爽吧，与你同在。
+================WARNING==DENGER===================
+Ba_name:     唐禹哲吧
+Ba_m_number: 325572
+Ba_p_number: 4760682
+Ba_desc:     百度唐禹哲贴吧
+================WARNING==DENGER===================
+Ba_name:     pong吧
+Ba_m_number: 267875
+Ba_p_number: 3119547
+Ba_desc:     百度pong吧欢迎你
+================WARNING==DENGER===================
+Ba_name:     盛骏吧
+Ba_m_number: 24883
+Ba_p_number: 94747
+Ba_desc:     盛骏中国粉丝集中地。温馨应援集中营。
+================WARNING==DENGER===================
+Ba_name:     演员吧
+Ba_m_number: 56020
+Ba_p_number: 444895
+Ba_desc:     演员和励志成为演员者交流园地
+================WARNING==DENGER===================
+Ba_name:     twins吧
+Ba_m_number: 323180
+Ba_p_number: 24136945
+Ba_desc:     感谢Twins，让我们相聚在此，遇见彼此！
+================WARNING==DENGER===================
+Ba_name:     神话城堡吧
+Ba_m_number: 23270
+Ba_p_number: 1814701
+Ba_desc:     神话城堡贴吧
+================WARNING==DENGER===================
+Ba_name:     all陈赫吧
+Ba_m_number: 7894
+Ba_p_number: 191207
+Ba_desc:     团宠二赤嗯哼~！
+================WARNING==DENGER===================
+Ba_name:     快女杨洋吧
+Ba_m_number: 279204
+Ba_p_number: 7702269
+Ba_desc:     中国内地女歌手、女演员杨洋的官方百度贴吧
+================WARNING==DENGER===================
+Ba_name:     米兰达可儿吧
+Ba_m_number: 257428
+Ba_p_number: 185720
+Ba_desc:     澳大利亚超模米兰达可儿粉丝俱乐部欢迎您
+================WARNING==DENGER===================
+Ba_name:     韩东君吧
+Ba_m_number: 21863
+Ba_p_number: 138694
+Ba_desc:     演员韩东君官方粉丝团地盘
+================WARNING==DENGER===================
+Ba_name:     赵丽颖陈晓吧
+Ba_m_number: 8528
+Ba_p_number: 71836
+Ba_desc:     本吧已夺回
+================WARNING==DENGER===================
+Ba_name:     2min吧
+Ba_m_number: 29906
+Ba_p_number: 890234
+Ba_desc:     我们一起守护世界遗产黄丝带夫夫
+================WARNING==DENGER===================
+Ba_name:     鹿包吧
+Ba_m_number: 25232
+Ba_p_number: 953558
+Ba_desc:     鹿晗与金珉锡的同人贴吧
+================WARNING==DENGER===================
+Ba_name:     莱昂纳多吧
+Ba_m_number: 332926
+Ba_p_number: 1469176
+Ba_desc:     莱昂纳多国内影迷交流互动、休闲的小世界。
+================WARNING==DENGER===================
+Ba_name:     金泰亨吧
+Ba_m_number: 182761
+Ba_p_number: 375312
+Ba_desc:     防弹少年团成员V个人吧
+================WARNING==DENGER===================
+Ba_name:     左溢吧
+Ba_m_number: 348200
+Ba_p_number: 5190237
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     adamlambert吧
+Ba_m_number: 286155
+Ba_p_number: 2083442
+Ba_desc:     Adamlambert粉丝平台
+================WARNING==DENGER===================
+Ba_name:     陈键锋吧
+Ba_m_number: 314113
+Ba_p_number: 3728246
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     全宝蓝吧
+Ba_m_number: 368210
+Ba_p_number: 845356
+Ba_desc:     在这里，可以获得全宝蓝最新的动态，消息。
+================WARNING==DENGER===================
+Ba_name:     崔智友吧
+Ba_m_number: 141052
+Ba_p_number: 622185
+Ba_desc:     百度崔智友吧
+================WARNING==DENGER===================
+Ba_name:     国内组合吧
+Ba_m_number: 10508
+Ba_p_number: 877764
+Ba_desc:     国内组合粉丝交流地
+================WARNING==DENGER===================
+Ba_name:     top吧
+Ba_m_number: 144430
+Ba_p_number: 426165
+Ba_desc:     你的存在 就是最美的晴天 温暖着我们的心
+================WARNING==DENGER===================
+Ba_name:     松井玲奈吧
+Ba_m_number: 312377
+Ba_p_number: 1300857
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     张檬吧
+Ba_m_number: 650247
+Ba_p_number: 1440191
+Ba_desc:     欢迎光临张檬百度贴吧，山檬海誓为你绽放。
+================WARNING==DENGER===================
+Ba_name:     古天乐吧
+Ba_m_number: 319478
+Ba_p_number: 2147280
+Ba_desc:     百度古天乐贴吧
+================WARNING==DENGER===================
+Ba_name:     萧敬腾吧
+Ba_m_number: 326318
+Ba_p_number: 3802135
+Ba_desc:     最全的萧敬腾资讯平台，资源型贴吧！
+================WARNING==DENGER===================
+Ba_name:     约翰尼德普吧
+Ba_m_number: 333761
+Ba_p_number: 2906588
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     大岛优子吧
+Ba_m_number: 280650
+Ba_p_number: 1065285
+Ba_desc:     大岛优子 変幻自在的Entertainer
+================WARNING==DENGER===================
+Ba_name:     henry吧
+Ba_m_number: 287991
+Ba_p_number: 2541000
+Ba_desc:     iHenry ihenrybar
+================WARNING==DENGER===================
+Ba_name:     回音哥吧
+Ba_m_number: 327923
+Ba_p_number: 4888792
+Ba_desc:     歌手回音哥百度贴吧
+================WARNING==DENGER===================
+Ba_name:     月下倾城吧
+Ba_m_number: 241780
+Ba_p_number: 353526
+Ba_desc:     风云际会 您心灵的栖息地
+================WARNING==DENGER===================
+Ba_name:     金素恩吧
+Ba_m_number: 246614
+Ba_p_number: 937246
+Ba_desc:     关于金素恩的一切
+================WARNING==DENGER===================
+Ba_name:     京希吧
+Ba_m_number: 27054
+Ba_p_number: 1512804
+Ba_desc:     一个温暖了岁月，一个惊艳了时光。
+================WARNING==DENGER===================
+Ba_name:     exo王道文吧
+Ba_m_number: 26902
+Ba_p_number: 360709
+Ba_desc:     执笔书写梦中有梦，行星少年基情粉红！
+================WARNING==DENGER===================
+Ba_name:     贾青吧
+Ba_m_number: 1772328
+Ba_p_number: 1955465
+Ba_desc:     青国青城，欢迎加入~
+================WARNING==DENGER===================
+Ba_name:     李东海吧
+Ba_m_number: 405363
+Ba_p_number: 5240643
+Ba_desc:     古典而深沉的百度李东海吧ELFISH
+================WARNING==DENGER===================
+Ba_name:     beast王道吧
+Ba_m_number: 21802
+Ba_p_number: 778342
+Ba_desc:     小兽（Beast）的粉红聚集地
+================WARNING==DENGER===================
+Ba_name:     指原莉乃吧
+Ba_m_number: 46873
+Ba_p_number: 639221
+Ba_desc:     王座革命 宅指天下
+================WARNING==DENGER===================
+Ba_name:     薛之谦吧
+Ba_m_number: 501668
+Ba_p_number: 7118853
+Ba_desc:     和薛之谦一起传递正能量！笑看人生Easy！ 
+================WARNING==DENGER===================
+Ba_name:     苏见信吧
+Ba_m_number: 254350
+Ba_p_number: 1754138
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     吧
+Ba_m_number: 202
+Ba_p_number: 502
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     杨宗纬吧
+Ba_m_number: 269124
+Ba_p_number: 2697731
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     扮演群吧
+Ba_m_number: 18184
+Ba_p_number: 653128
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     铉key吧
+Ba_m_number: 32864
+Ba_p_number: 1753766
+Ba_desc:     ★炫耀一生，铉钥一世★我们的爱，一直都在
+================WARNING==DENGER===================
+Ba_name:     权侑莉吧
+Ba_m_number: 329139
+Ba_p_number: 1493330
+Ba_desc:     百度权侑莉吧
+================WARNING==DENGER===================
+Ba_name:     龚玥菲吧
+Ba_m_number: 22648
+Ba_p_number: 189550
+Ba_desc:     菲菲迷们的聚集地
+================WARNING==DENGER===================
+Ba_name:     窦唯吧
+Ba_m_number: 34389
+Ba_p_number: 589244
+Ba_desc:     竇唯 音樂人 不一樣 不一定 译 做梦 三家
+================WARNING==DENGER===================
+Ba_name:     安宰贤吧
+Ba_m_number: 143054
+Ba_p_number: 566570
+Ba_desc:     韩国模特演员主持人-安宰贤
+================WARNING==DENGER===================
+Ba_name:     林依晨吧
+Ba_m_number: 349105
+Ba_p_number: 6541896
+Ba_desc:     众里寻她千百度 依晨就在心深处
+================WARNING==DENGER===================
+Ba_name:     all世勋吧
+Ba_m_number: 15040
+Ba_p_number: 171278
+Ba_desc:     这里是喜欢all世勋的粉丝聚集地！
+================WARNING==DENGER===================
+Ba_name:     贾玲吧
+Ba_m_number: 29969
+Ba_p_number: 60489
+Ba_desc:     贾玲粉丝交流平台
+================WARNING==DENGER===================
+Ba_name:     赛琳娜戈麦斯吧
+Ba_m_number: 260200
+Ba_p_number: 492325
+Ba_desc:     百度賽琳娜戈麥斯中文貼吧
+================WARNING==DENGER===================
+Ba_name:     言承旭吧
+Ba_m_number: 508190
+Ba_p_number: 5097419
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     张嘉译吧
+Ba_m_number: 37048
+Ba_p_number: 1458147
+Ba_desc:     心 灵“嘉”园 、 快 乐“译”站 ~
+================WARNING==DENGER===================
+Ba_name:     网店信誉吧
+Ba_m_number: 50256
+Ba_p_number: 1144535
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     章泽天吧
+Ba_m_number: 63587
+Ba_p_number: 1703743
+Ba_desc:     一缕奶茶一抹甜，一世倾心一见情
+================WARNING==DENGER===================
+Ba_name:     mike吧
+Ba_m_number: 83456
+Ba_p_number: 384141
+Ba_desc:     泰国明星Mike粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     周华健吧
+Ba_m_number: 259721
+Ba_p_number: 2122544
+Ba_desc:     周华健吧欢迎您来沐浴健康的阳光
+================WARNING==DENGER===================
+Ba_name:     赫海文吧完结文库吧
+Ba_m_number: 44134
+Ba_p_number: 192937
+Ba_desc:     一直爱着支持者赫海的完结文库 pisces2h
+================WARNING==DENGER===================
+Ba_name:     木村拓哉吧
+Ba_m_number: 250943
+Ba_p_number: 416464
+Ba_desc:     木村拓哉一生推
+================WARNING==DENGER===================
+Ba_name:     全正国吧
+Ba_m_number: 163801
+Ba_p_number: 343398
+Ba_desc:     防弹少年团的可爱忙内JungKook
+================WARNING==DENGER===================
+Ba_name:     李霄云吧
+Ba_m_number: 215435
+Ba_p_number: 12187825
+Ba_desc:     
+================WARNING==DENGER===================
+Ba_name:     朴素妍吧
+Ba_m_number: 586998
+Ba_p_number: 1396588
+Ba_desc:     期待喜爱素妍的你加入百度朴素妍吧大家庭~
+================WARNING==DENGER===================
+Ba_name:     郑淳元吧
+Ba_m_number: 37796
+Ba_p_number: 319915
+Ba_desc:     韩国我是歌手第二季歌王郑淳元百度贴吧
+================WARNING==DENGER===================
+Ba_name:     牛绵吧
+Ba_m_number: 22989
+Ba_p_number: 592893
+Ba_desc:     吴亦凡?金俊勉 俊美不凡?情亦勉勉
+================WARNING==DENGER===================
+Ba_name:     板野友美吧
+Ba_m_number: 314459
+Ba_p_number: 1325901
+Ba_desc:     日本女歌手板野友美粉丝集聚地
+================WARNING==DENGER===================
+Ba_name:     金亚荣吧
+Ba_m_number: 256595
+Ba_p_number: 218144
+Ba_desc:     百度金亚荣吧
+================WARNING==DENGER===================
+Ba_name:     nanhongyokaf10吧
+Ba_m_number: 4879
+Ba_p_number: 169013
+Ba_desc:     Int&#039;l Chinese Forum - Love Conquers All
+================WARNING==DENGER===================
+Ba_name:     贴吧饭团吧
+Ba_m_number: 289617
+Ba_p_number: 568112
+Ba_desc:     最全面的娱乐八卦信息综合站点
+================WARNING==DENGER===================
+Ba_name:     凡菲吧
+Ba_m_number: 9276
+Ba_p_number: 350279
+Ba_desc:     All For 吴亦凡&amp;刘亦菲
+================WARNING==DENGER===================
+Ba_name:     hba吧
+Ba_m_number: 41875
+Ba_p_number: 637707
+Ba_desc:     见证HBA的成长
+================WARNING==DENGER===================
+Ba_name:     李沁吧
+Ba_m_number: 282889
+Ba_p_number: 2233056
+Ba_desc:     演员李沁粉丝聚集地
+================WARNING==DENGER===================
+Ba_name:     qt平台吧
+Ba_m_number: 25932
+Ba_p_number: 1066160
+Ba_desc:     专业平台讨论吧
+================WARNING==DENGER===================
+Ba_name:     安以轩吧
+Ba_m_number: 325835
+Ba_p_number: 9323501
+Ba_desc:     百度安以轩吧 轩亲温暖的家
+================WARNING==DENGER===================
+Ba_name:     宋承宪吧
+Ba_m_number: 498362
+Ba_p_number: 3100157
+Ba_desc:     他驻足韩国，闪耀亚洲， 魅力全球！
+================WARNING==DENGER===================
+Ba_name:     kris受吧
+Ba_m_number: 25733
+Ba_p_number: 684275
+Ba_desc:     不同凡响，虚己受人~Let‘s Krishare！~
+================WARNING==DENGER===================
+Ba_name:     于和伟吧
+Ba_m_number: 141120
+Ba_p_number: 413010
+Ba_desc:     为和心动，和而不同。
+================WARNING==DENGER===================
+Ba_name:     前田敦子吧
+Ba_m_number: 289399
+Ba_p_number: 1608494
+Ba_desc:     百度前田敦子吧，欢迎喜欢阿酱的吧友入驻
+================WARNING==DENGER===================
+Ba_name:     张睿李晟吧
+Ba_m_number: 15713
+Ba_p_number: 567929
+Ba_desc:     欢迎到张睿李晟吧来！一起来支持张睿和李晟
+================WARNING==DENGER===================
+Ba_name:     闫妮吧
+Ba_m_number: 266872
+Ba_p_number: 2173992
+Ba_desc:     百度闫妮吧与妮相伴，一路有妮。
+================WARNING==DENGER===================
